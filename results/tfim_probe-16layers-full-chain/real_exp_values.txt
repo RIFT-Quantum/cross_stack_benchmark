@@ -1,0 +1,45 @@
+================================================================================
+Running fixed-depth TFIM full-chain benchmark with n=25
+================================================================================
+Observable support: 25 sites, 24 bonds (full_chain=True)
+Computing ideal MPS reference...
+Ideal EVs:
+  MZ_full: 0.00000000
+  MX_full: 0.69898296
+  ZZ_full: 0.35147878
+================================================================================
+Running fixed-depth TFIM full-chain benchmark with n=50
+================================================================================
+Observable support: 50 sites, 49 bonds (full_chain=True)
+Computing ideal MPS reference...
+Ideal EVs:
+  MZ_full: 0.00000000
+  MX_full: 0.69193275
+  ZZ_full: 0.35236537
+================================================================================
+Running fixed-depth TFIM full-chain benchmark with n=75
+================================================================================
+Observable support: 75 sites, 74 bonds (full_chain=True)
+Computing ideal MPS reference...
+Ideal EVs:
+  MZ_full: 0.00000000
+  MX_full: 0.68958268
+  ZZ_full: 0.35265292
+================================================================================
+Running fixed-depth TFIM full-chain benchmark with n=100
+================================================================================
+Observable support: 100 sites, 99 bonds (full_chain=True)
+Computing ideal MPS reference...
+Ideal EVs:
+  MZ_full: 0.00000000
+  MX_full: 0.68840764
+  ZZ_full: 0.35279524
+================================================================================
+Running fixed-depth TFIM full-chain benchmark with n=125
+================================================================================
+Observable support: 125 sites, 124 bonds (full_chain=True)
+Computing ideal MPS reference...
+Ideal EVs:
+  MZ_full: 0.00000000
+  MX_full: 0.68770262
+  ZZ_full: 0.35288017

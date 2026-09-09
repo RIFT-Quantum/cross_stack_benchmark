@@ -1,0 +1,11 @@
+n,best_provider,count
+20,IBM default,1
+20,Q-CTRL,1
+20,QESEM,18
+40,IBM default,8
+40,Q-CTRL,2
+40,QESEM,30
+60,IBM default,48
+60,Q-CTRL,12
+80,IBM default,62
+80,Q-CTRL,18

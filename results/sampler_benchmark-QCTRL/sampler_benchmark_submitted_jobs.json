@@ -1,0 +1,158 @@
+{
+    "created_by": "benchmark-FULLCHAIN_-_SAMPLER job-id workflow",
+    "updated_at_utc": "2026-07-11T02:25:55.949383+00:00",
+    "backend_name": "ibm_pittsburgh",
+    "shot_count": 32768,
+    "jobs": [
+        {
+            "submission_key": "Q_CTRL__n10",
+            "provider": "Q-CTRL",
+            "provider_file_label": "Q_CTRL",
+            "n": 10,
+            "job_id": "2fa397f9-140d-4d70-a69c-f71cd0cb7983",
+            "job_family": "qiskit_function",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "QPE"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL\\Q_CTRL_SAMPLER_n10.json",
+            "submitted_at_utc": "2026-07-09T21:00:24.461333+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-10T02:35:21.697235+00:00",
+            "collected_at_utc": "2026-07-10T02:35:31.566776+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "Q_CTRL__n20",
+            "provider": "Q-CTRL",
+            "provider_file_label": "Q_CTRL",
+            "n": 20,
+            "job_id": "c656f3ae-368d-49c1-b2cb-d240e15d9cd3",
+            "job_family": "qiskit_function",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "QPE"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL\\Q_CTRL_SAMPLER_n20.json",
+            "submitted_at_utc": "2026-07-09T21:00:30.019596+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-10T02:35:38.292822+00:00",
+            "collected_at_utc": "2026-07-10T02:35:45.792339+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "Q_CTRL__n25",
+            "provider": "Q-CTRL",
+            "provider_file_label": "Q_CTRL",
+            "n": 25,
+            "job_id": "60ac4581-8b74-4078-a6b9-1708efd15b40",
+            "job_family": "qiskit_function",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 2,
+            "algorithms": [
+                "BV",
+                "GHZ"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL\\Q_CTRL_SAMPLER_n25.json",
+            "submitted_at_utc": "2026-07-09T21:00:34.841048+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-10T02:35:48.461024+00:00",
+            "collected_at_utc": "2026-07-10T02:35:55.776503+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "Q_CTRL__n30",
+            "provider": "Q-CTRL",
+            "provider_file_label": "Q_CTRL",
+            "n": 30,
+            "job_id": "4b3e4ab5-0f54-4522-a303-2e51f8af178e",
+            "job_family": "qiskit_function",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "QPE"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL\\Q_CTRL_SAMPLER_n30.json",
+            "submitted_at_utc": "2026-07-09T21:00:40.049312+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-10T19:43:02.724695+00:00",
+            "collected_at_utc": "2026-07-10T19:43:13.916994+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "Q_CTRL__n50",
+            "provider": "Q-CTRL",
+            "provider_file_label": "Q_CTRL",
+            "n": 50,
+            "job_id": "26c2dee4-b8ba-4be9-933b-b74c43d772de",
+            "job_family": "qiskit_function",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 2,
+            "algorithms": [
+                "BV",
+                "GHZ"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL\\Q_CTRL_SAMPLER_n50.json",
+            "submitted_at_utc": "2026-07-09T21:00:45.638016+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-10T19:43:18.237163+00:00",
+            "collected_at_utc": "2026-07-10T19:43:30.291115+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "Q_CTRL__n75",
+            "provider": "Q-CTRL",
+            "provider_file_label": "Q_CTRL",
+            "n": 75,
+            "job_id": "7472b14f-7ccf-40a3-9aa6-560f2e9be570",
+            "job_family": "qiskit_function",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 2,
+            "algorithms": [
+                "BV",
+                "GHZ"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL\\Q_CTRL_SAMPLER_n75.json",
+            "submitted_at_utc": "2026-07-09T21:00:48.853357+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-11T02:25:35.147826+00:00",
+            "collected_at_utc": "2026-07-11T02:25:44.855223+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "Q_CTRL__n100",
+            "provider": "Q-CTRL",
+            "provider_file_label": "Q_CTRL",
+            "n": 100,
+            "job_id": "6e5c0afc-7d48-4e77-9ab1-537cb790e9fd",
+            "job_family": "qiskit_function",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "GHZ"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL\\Q_CTRL_SAMPLER_n100.json",
+            "submitted_at_utc": "2026-07-09T21:00:52.246060+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-11T02:25:47.474716+00:00",
+            "collected_at_utc": "2026-07-11T02:25:55.949383+00:00",
+            "collection_error": null
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "provider": "Q-CTRL",
+    "job_id": "d5c8dff5-4fc2-4619-a484-b2230b152882",
+    "qpu_seconds": NaN,
+    "qpu_time_source": "unavailable",
+    "backend_name": "ibm_pittsburgh",
+    "shot_count_requested": 32768,
+    "algorithm_n_values": {
+        "BV": [
+            25,
+            50,
+            75
+        ],
+        "QPE": [
+            10,
+            20,
+            30
+        ],
+        "RND": [
+            25,
+            50,
+            75,
+            100
+        ],
+        "GHZ": [
+            25,
+            50,
+            75,
+            100
+        ]
+    },
+    "results": [
+        {
+            "pub_index": 0,
+            "algorithm": "RND",
+            "n": 25,
+            "physical_qubits": 25,
+            "expected_bitstring": "0100010001010011001011111",
+            "valid_bitstrings": [
+                "0100010001010011001011111"
+            ],
+            "score_mode": "exact",
+            "classical_register": "c",
+            "score": {
+                "total_shots": 32768,
+                "expected_count": 30630,
+                "success_probability": 0.93475341796875,
+                "failure_probability": 0.06524658203125,
+                "top_bitstring": "0100010001010011001011111",
+                "top_count": 30630,
+                "top_probability": 0.93475341796875,
+                "correct_is_top": true,
+                "score_mode": "exact",
+                "valid_count": 30630,
+                "valid_probability": 0.93475341796875,
+                "zero_count": 0,
+                "one_count": 0
+            },
+            "top_25_counts": {
+                "0100010001010011001011111": 30630,
+                "0100010001000011001011111": 737,
+                "0100011001010011001011111": 587,
+                "0100010000010011001011111": 310,
+                "0100010001010011001011011": 175,
+                "0000010001010011001011111": 158,
+                "0100010001010011011011111": 87,
+                "0100011101010011001011111": 28,
+                "0100010001010011001010111": 24,
+                "0100010001010011001011110": 19,
+                "0100010001010010001011111": 7,
+                "0100010000110011001011111": 6
+            },
+            "all_counts": {
+                "0100010001010011001011111": 30630,
+                "0100010001000011001011111": 737,
+                "0100011001010011001011111": 587,
+                "0100010000010011001011111": 310,
+                "0100010001010011001011011": 175,
+                "0000010001010011001011111": 158,
+                "0100010001010011011011111": 87,
+                "0100011101010011001011111": 28,
+                "0100010001010011001010111": 24,
+                "0100010001010011001011110": 19,
+                "0100010001010010001011111": 7,
+                "0100010000110011001011111": 6
+            },
+            "logical_metrics": {
+                "logical_num_qubits": 25,
+                "logical_num_clbits": 25,
+                "logical_depth": 18,
+                "logical_size": 333,
+                "logical_ops_json": "{\"barrier\": 13, \"cz\": 96, \"measure\": 25, \"rz\": 114, \"sx\": 21, \"sxdg\": 21, \"x\": 56}",
+                "logical_cx_count": 0,
+                "logical_ecr_count": 0,
+                "logical_cz_count": 96,
+                "logical_swap_count": 0,
+                "logical_cp_count": 0,
+                "logical_unitary_count": 0,
+                "logical_measure_count": 25,
+                "logical_barrier_count": 13
+            },
+            "isa_metrics": {
+                "isa_num_qubits": 156,
+                "isa_num_clbits": 25,
+                "isa_depth": 26,
+                "isa_size": 375,
+                "isa_ops_json": "{\"barrier\": 13, \"cz\": 96, \"measure\": 25, \"rz\": 156, \"sx\": 42, \"x\": 56}",
+                "isa_cx_count": 0,
+                "isa_ecr_count": 0,
+                "isa_cz_count": 96,
+                "isa_swap_count": 0,
+                "isa_cp_count": 0,
+                "isa_unitary_count": 0,
+                "isa_measure_count": 25,
+                "isa_barrier_count": 13
+            },
+            "notes": "Native randomized mirror circuit, depth=4. Target is a balanced nonzero initial bitstring, not 0...0."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+  "backend_calibration": {
+    "error": null,
+    "lookup_time_source": "execution_start",
+    "lookup_time_utc": "2026-07-08T18:24:35.669826+00:00",
+    "snapshot_id": "fc422326bebd1a6545c5ccfcba8bf31447276a69f0a20a53b6fcefef11658893",
+    "snapshot_last_update_utc": "2026-07-08T17:57:35+00:00",
+    "status": "retrieved"
+  },
+  "backend_name": "ibm_pittsburgh",
+  "creation_date_utc": "2026-07-08T18:24:34.468533+00:00",
+  "field_errors": {},
+  "inputs_without_circuits": {
+    "circuits": [
+      {
+        "errors": {},
+        "pub_index": 0,
+        "summary": {
+          "active_physical_qubits": [
+            77,
+            84,
+            85,
+            86,
+            87,
+            88
+          ],
+          "circuit_width": 156,
+          "measured_physical_qubits": [
+            77,
+            84,
+            85,
+            86,
+            87
+          ],
+          "operation_counts": {
+            "barrier": 2,
+            "cz": 41,
+            "measure": 5,
+            "rz": 60,
+            "sx": 87,
+            "x": 5
+          },
+          "qubit_index_basis": "submitted Runtime ISA circuit (physical backend indices)"
+        }
+      }
+    ],
+    "options": {
+      "default_shots": 32768,
+      "dynamical_decoupling": {
+        "enable": false
+      },
+      "twirling": {
+        "enable_gates": false,
+        "enable_measure": true
+      }
+    },
+    "pub_count": 1,
+    "support_qiskit": true,
+    "version": 2
+  },
+  "job_id": "d979bokqp3as739rg9fg",
+  "metrics": {
+    "bss": {
+      "seconds": 11
+    },
+    "caller": "qiskit_ibm_runtime~sampler.py",
+    "qiskit_version": "qiskit_ibm_runtime-0.47.0,qiskit-2.2.3*,qiskit_aer-0.17.2",
+    "timestamps": {
+      "created": "2026-07-08T18:24:34.468533Z",
+      "finished": "2026-07-08T19:25:16.552264Z",
+      "running": "2026-07-08T18:24:35.669826Z"
+    },
+    "usage": {
+      "quantum_seconds": 11,
+      "seconds": 11,
+      "status": "complete"
+    }
+  },
+  "primitive_id": "sampler",
+  "retrieval_status": "retrieved",
+  "runtime_image": null,
+  "session_or_batch_id": null,
+  "status": "DONE",
+  "tags": null,
+  "usage_estimation": {
+    "quantum_seconds": 10.807192562000001
+  }
+}

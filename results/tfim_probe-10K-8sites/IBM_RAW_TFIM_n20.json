@@ -1,0 +1,217 @@
+{
+    "provider": "IBM raw",
+    "job_id": "d8s47u6ab0ds73dsbq4g",
+    "qpu_seconds": 12.365719463,
+    "qpu_time_source": "usage_estimation.quantum_seconds",
+    "n": 20,
+    "tfim_layers": 2,
+    "theta_zz": 0.35,
+    "theta_x": 0.45,
+    "num_probes": 8,
+    "probe_metadata": {
+        "probe_sites": [
+            0,
+            2,
+            5,
+            8,
+            10,
+            13,
+            16,
+            19
+        ],
+        "probe_edges": [
+            [
+                0,
+                1
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                5,
+                6
+            ],
+            [
+                7,
+                8
+            ],
+            [
+                10,
+                11
+            ],
+            [
+                12,
+                13
+            ],
+            [
+                15,
+                16
+            ],
+            [
+                18,
+                19
+            ]
+        ]
+    },
+    "observable_labels": [
+        "MZ_probe",
+        "MX_probe",
+        "ZZ_probe"
+    ],
+    "ideal_evs": [
+        7.244207001162985e-14,
+        0.6976613207346455,
+        0.4979232472047522
+    ],
+    "ideal_metadata": {
+        "batched_shots_optimization": false,
+        "required_memory_mb": 0,
+        "method": "matrix_product_state",
+        "active_input_qubits": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ],
+        "device": "CPU",
+        "remapped_qubits": false,
+        "num_qubits": 20,
+        "num_clbits": 0,
+        "time_taken": 0.0011129,
+        "input_qubit_map": [
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                2,
+                2
+            ],
+            [
+                3,
+                3
+            ],
+            [
+                4,
+                4
+            ],
+            [
+                5,
+                5
+            ],
+            [
+                6,
+                6
+            ],
+            [
+                7,
+                7
+            ],
+            [
+                8,
+                8
+            ],
+            [
+                9,
+                9
+            ],
+            [
+                10,
+                10
+            ],
+            [
+                11,
+                11
+            ],
+            [
+                12,
+                12
+            ],
+            [
+                13,
+                13
+            ],
+            [
+                14,
+                14
+            ],
+            [
+                15,
+                15
+            ],
+            [
+                16,
+                16
+            ],
+            [
+                17,
+                17
+            ],
+            [
+                18,
+                18
+            ],
+            [
+                19,
+                19
+            ]
+        ],
+        "max_memory_mb": 65235,
+        "measure_sampling": true,
+        "noise": "ideal",
+        "matrix_product_state_truncation_threshold": 1e-16,
+        "matrix_product_state_max_bond_dimension": 18446744073709551615,
+        "matrix_product_state_sample_measure_algorithm": 0,
+        "MPS_log_data": "{I0:rzz on qubits 0,1, BD=[2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1],  I1:rzz on qubits 2,3, BD=[2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1],  I2:rzz on qubits 4,5, BD=[2 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1],  I3:rzz on qubits 6,7, BD=[2 1 2 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1],  I4:rzz on qubits 8,9, BD=[2 1 2 1 2 1 2 1 2 1 1 1 1 1 1 1 1 1 1],  I5:rzz on qubits 10,11, BD=[2 1 2 1 2 1 2 1 2 1 2 1 1 1 1 1 1 1 1],  I6:rzz on qubits 12,13, BD=[2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 1 1 1 1],  I7:rzz on qubits 14,15, BD=[2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 1 1],  I8:rzz on qubits 16,17, BD=[2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1],  I9:rzz on qubits 18,19, BD=[2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2],  I10:rzz on qubits 1,2, BD=[2 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2],  I11:rzz on qubits 3,4, BD=[2 2 2 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2],  I12:rzz on qubits 5,6, BD=[2 2 2 2 2 2 2 1 2 1 2 1 2 1 2 1 2 1 2],  I13:rzz on qubits 7,8, BD=[2 2 2 2 2 2 2 2 2 1 2 1 2 1 2 1 2 1 2],  I14:rzz on qubits 9,10, BD=[2 2 2 2 2 2 2 2 2 2 2 1 2 1 2 1 2 1 2],  I15:rzz on qubits 11,12, BD=[2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 1 2 1 2],  I16:rzz on qubits 13,14, BD=[2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 1 2],  I17:rzz on qubits 15,16, BD=[2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2],  I18:rzz on qubits 17,18, BD=[2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2],  I19:rzz on qubits 0,1, BD=[2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2],  I20:rzz on qubits 2,3, BD=[2 2 4 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2],  I21:rzz on qubits 4,5, BD=[2 2 4 2 4 2 2 2 2 2 2 2 2 2 2 2 2 2 2],  I22:rzz on qubits 6,7, BD=[2 2 4 2 4 2 4 2 2 2 2 2 2 2 2 2 2 2 2],  I23:rzz on qubits 8,9, BD=[2 2 4 2 4 2 4 2 4 2 2 2 2 2 2 2 2 2 2],  I24:rzz on qubits 10,11, BD=[2 2 4 2 4 2 4 2 4 2 4 2 2 2 2 2 2 2 2],  I25:rzz on qubits 12,13, BD=[2 2 4 2 4 2 4 2 4 2 4 2 4 2 2 2 2 2 2],  I26:rzz on qubits 14,15, BD=[2 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 2 2 2],  I27:rzz on qubits 16,17, BD=[2 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 2],  I28:rzz on qubits 18,19, BD=[2 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 2],  I29:rzz on qubits 1,2, BD=[2 4 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 2],  I30:rzz on qubits 3,4, BD=[2 4 4 4 4 2 4 2 4 2 4 2 4 2 4 2 4 2 2],  I31:rzz on qubits 5,6, BD=[2 4 4 4 4 4 4 2 4 2 4 2 4 2 4 2 4 2 2],  I32:rzz on qubits 7,8, BD=[2 4 4 4 4 4 4 4 4 2 4 2 4 2 4 2 4 2 2],  I33:rzz on qubits 9,10, BD=[2 4 4 4 4 4 4 4 4 4 4 2 4 2 4 2 4 2 2],  I34:rzz on qubits 11,12, BD=[2 4 4 4 4 4 4 4 4 4 4 4 4 2 4 2 4 2 2],  I35:rzz on qubits 13,14, BD=[2 4 4 4 4 4 4 4 4 4 4 4 4 4 4 2 4 2 2],  I36:rzz on qubits 15,16, BD=[2 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 2 2],  I37:rzz on qubits 17,18, BD=[2 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 2],  I38:rzz on qubits 0,1, BD=[2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1],  I39:rzz on qubits 2,3, BD=[2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1],  I40:rzz on qubits 4,5, BD=[2 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1],  I41:rzz on qubits 6,7, BD=[2 1 2 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1],  I42:rzz on qubits 8,9, BD=[2 1 2 1 2 1 2 1 2 1 1 1 1 1 1 1 1 1 1],  I43:rzz on qubits 10,11, BD=[2 1 2 1 2 1 2 1 2 1 2 1 1 1 1 1 1 1 1],  I44:rzz on qubits 12,13, BD=[2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 1 1 1 1],  I45:rzz on qubits 14,15, BD=[2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 1 1],  I46:rzz on qubits 16,17, BD=[2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1],  I47:rzz on qubits 18,19, BD=[2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2],  I48:rzz on qubits 1,2, BD=[2 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2],  I49:rzz on qubits 3,4, BD=[2 2 2 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2],  I50:rzz on qubits 5,6, BD=[2 2 2 2 2 2 2 1 2 1 2 1 2 1 2 1 2 1 2],  I51:rzz on qubits 7,8, BD=[2 2 2 2 2 2 2 2 2 1 2 1 2 1 2 1 2 1 2],  I52:rzz on qubits 9,10, BD=[2 2 2 2 2 2 2 2 2 2 2 1 2 1 2 1 2 1 2],  I53:rzz on qubits 11,12, BD=[2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 1 2 1 2],  I54:rzz on qubits 13,14, BD=[2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 1 2],  I55:rzz on qubits 15,16, BD=[2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2],  I56:rzz on qubits 17,18, BD=[2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2],  I57:rzz on qubits 0,1, BD=[2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2],  I58:rzz on qubits 2,3, BD=[2 2 4 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2],  I59:rzz on qubits 4,5, BD=[2 2 4 2 4 2 2 2 2 2 2 2 2 2 2 2 2 2 2],  I60:rzz on qubits 6,7, BD=[2 2 4 2 4 2 4 2 2 2 2 2 2 2 2 2 2 2 2],  I61:rzz on qubits 8,9, BD=[2 2 4 2 4 2 4 2 4 2 2 2 2 2 2 2 2 2 2],  I62:rzz on qubits 10,11, BD=[2 2 4 2 4 2 4 2 4 2 4 2 2 2 2 2 2 2 2],  I63:rzz on qubits 12,13, BD=[2 2 4 2 4 2 4 2 4 2 4 2 4 2 2 2 2 2 2],  I64:rzz on qubits 14,15, BD=[2 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 2 2 2],  I65:rzz on qubits 16,17, BD=[2 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 2],  I66:rzz on qubits 18,19, BD=[2 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 2],  I67:rzz on qubits 1,2, BD=[2 4 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 2],  I68:rzz on qubits 3,4, BD=[2 4 4 4 4 2 4 2 4 2 4 2 4 2 4 2 4 2 2],  I69:rzz on qubits 5,6, BD=[2 4 4 4 4 4 4 2 4 2 4 2 4 2 4 2 4 2 2],  I70:rzz on qubits 7,8, BD=[2 4 4 4 4 4 4 4 4 2 4 2 4 2 4 2 4 2 2],  I71:rzz on qubits 9,10, BD=[2 4 4 4 4 4 4 4 4 4 4 2 4 2 4 2 4 2 2],  I72:rzz on qubits 11,12, BD=[2 4 4 4 4 4 4 4 4 4 4 4 4 2 4 2 4 2 2],  I73:rzz on qubits 13,14, BD=[2 4 4 4 4 4 4 4 4 4 4 4 4 4 4 2 4 2 2],  I74:rzz on qubits 15,16, BD=[2 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 2 2],  I75:rzz on qubits 17,18, BD=[2 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 2],  }",
+        "matrix_product_state_lapack": false,
+        "parallel_shots": 1,
+        "parallel_state_update": 24,
+        "runtime_parameter_bind": false,
+        "num_bind_params": 1,
+        "fusion": {
+            "enabled": false
+        },
+        "result_subtypes": {
+            "ideal_MZ_probe": "average",
+            "ideal_MX_probe": "average",
+            "ideal_ZZ_probe": "average"
+        },
+        "result_types": {
+            "ideal_MZ_probe": "save_expval",
+            "ideal_MX_probe": "save_expval",
+            "ideal_ZZ_probe": "save_expval"
+        }
+    },
+    "evs": [
+        -0.081275,
+        0.6444500000000001,
+        0.467
+    ],
+    "stds": [
+        0.0035146829782357327,
+        0.0026898485087454276,
+        0.0031253347020759235
+    ],
+    "options_label": "resilience_0_no_twirling"
+}

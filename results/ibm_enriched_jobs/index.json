@@ -1,0 +1,1912 @@
+{
+  "calibration_snapshots": {
+    "03d4e89f65c96cb9bb6dd10ffd4a35b721ca46284e4980be55ab143e89b08313": "calibration_snapshots/03d4e89f65c96cb9bb6dd10ffd4a35b721ca46284e4980be55ab143e89b08313.json",
+    "0bb07e7458ec7abfa020ec1e6e142982cc94e917b6e67616a9b0d248c5251d40": "calibration_snapshots/0bb07e7458ec7abfa020ec1e6e142982cc94e917b6e67616a9b0d248c5251d40.json",
+    "101a0a78908fc3bcc97bfea86cfe39af44eed5e14ec1cc4d7fb353fc5c92e239": "calibration_snapshots/101a0a78908fc3bcc97bfea86cfe39af44eed5e14ec1cc4d7fb353fc5c92e239.json",
+    "19db82f7a8adfa31202efdaefe7d89e818bd0ef65898787b7032207e1530623d": "calibration_snapshots/19db82f7a8adfa31202efdaefe7d89e818bd0ef65898787b7032207e1530623d.json",
+    "321dd109738fc0d12c30dfa86f9554f93c096bafc8828583e7c69c9a1d710c99": "calibration_snapshots/321dd109738fc0d12c30dfa86f9554f93c096bafc8828583e7c69c9a1d710c99.json",
+    "3958247e824bbfdeebc6bea829fe31330873edf824c0a3c32c05f49fb31d1f08": "calibration_snapshots/3958247e824bbfdeebc6bea829fe31330873edf824c0a3c32c05f49fb31d1f08.json",
+    "3bfb554df54257a29afa16d07449cbe033eba571a37a821fe918053a63162e50": "calibration_snapshots/3bfb554df54257a29afa16d07449cbe033eba571a37a821fe918053a63162e50.json",
+    "3e5b49c6f0d13ecd47d841db9efaf2e0f6fff46802a414e651fa2884601de6de": "calibration_snapshots/3e5b49c6f0d13ecd47d841db9efaf2e0f6fff46802a414e651fa2884601de6de.json",
+    "41e99d03ad31cf85966e35d13d582d3585d23f77e8d2d91efed0bba8c9ae81c8": "calibration_snapshots/41e99d03ad31cf85966e35d13d582d3585d23f77e8d2d91efed0bba8c9ae81c8.json",
+    "42169eaf4f53928740645563db8922783a391b6d0b8a99085e62a348e61091d3": "calibration_snapshots/42169eaf4f53928740645563db8922783a391b6d0b8a99085e62a348e61091d3.json",
+    "42473210ca1f00f21a86e1c4e816e30d051043f828e00c64722c264fd459e1b7": "calibration_snapshots/42473210ca1f00f21a86e1c4e816e30d051043f828e00c64722c264fd459e1b7.json",
+    "53956d65a1680c89a4b53a9333db0154b01ae714a207686eba537a18214a99c1": "calibration_snapshots/53956d65a1680c89a4b53a9333db0154b01ae714a207686eba537a18214a99c1.json",
+    "56d7a0ff3845a2060dc889fd43911d87d7d9a9ca40cd59e38cb85b5435fcaf4c": "calibration_snapshots/56d7a0ff3845a2060dc889fd43911d87d7d9a9ca40cd59e38cb85b5435fcaf4c.json",
+    "5d7278a601c6302fee8da9d7330c62c6da935b5d456c9a7a2bc5bb13ddf0c0c1": "calibration_snapshots/5d7278a601c6302fee8da9d7330c62c6da935b5d456c9a7a2bc5bb13ddf0c0c1.json",
+    "63a9b5f78e427606c8bd3587e7982a869d17aa270ed9e8f61d9073cccbcd754b": "calibration_snapshots/63a9b5f78e427606c8bd3587e7982a869d17aa270ed9e8f61d9073cccbcd754b.json",
+    "6a34de6b1cb3b3f099d55d442f687c9c4d6ff0ec4b0915683b986312ca3e82cb": "calibration_snapshots/6a34de6b1cb3b3f099d55d442f687c9c4d6ff0ec4b0915683b986312ca3e82cb.json",
+    "6aebe87f861ce2247e3ad511ea8ecfcdafa39ce351dd280f6203cfc45b346c6e": "calibration_snapshots/6aebe87f861ce2247e3ad511ea8ecfcdafa39ce351dd280f6203cfc45b346c6e.json",
+    "721b52c2c626268191eb93f8a373b64cf6287c638ee9702acc304d003bee3972": "calibration_snapshots/721b52c2c626268191eb93f8a373b64cf6287c638ee9702acc304d003bee3972.json",
+    "76832055f59d8c381d115b34955f62f2dcfb51324247d858086031c096b9bf0d": "calibration_snapshots/76832055f59d8c381d115b34955f62f2dcfb51324247d858086031c096b9bf0d.json",
+    "7f3308e5c0f9d6369a8d2e23716b454dde8ec0da5cee6d3dda76ca7962783030": "calibration_snapshots/7f3308e5c0f9d6369a8d2e23716b454dde8ec0da5cee6d3dda76ca7962783030.json",
+    "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16": "calibration_snapshots/834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16.json",
+    "84fe10067095bc666a95aae93d219d4e5320485ebcf56430c0d8c015b5c0850f": "calibration_snapshots/84fe10067095bc666a95aae93d219d4e5320485ebcf56430c0d8c015b5c0850f.json",
+    "88ab6aa6fd8289d8f2b795ef907daa202dbdfda60aa3a43ca6613f8575942479": "calibration_snapshots/88ab6aa6fd8289d8f2b795ef907daa202dbdfda60aa3a43ca6613f8575942479.json",
+    "8f7b2440dd4ef335928027da04eb9ec959a7d60195010740bd220d74af91532f": "calibration_snapshots/8f7b2440dd4ef335928027da04eb9ec959a7d60195010740bd220d74af91532f.json",
+    "935f4ea301723ac6771b15a87355be5afb5272c708647a4b54fa30adea52ed75": "calibration_snapshots/935f4ea301723ac6771b15a87355be5afb5272c708647a4b54fa30adea52ed75.json",
+    "bb2afab02cbceba6b1b82df45f22011ac753c5056e21ccac01f8cfd74dfadebb": "calibration_snapshots/bb2afab02cbceba6b1b82df45f22011ac753c5056e21ccac01f8cfd74dfadebb.json",
+    "d32557497c0ac73cf60a9daf2f3f9d70148c49202dbc973c01d84bf0d8a1d827": "calibration_snapshots/d32557497c0ac73cf60a9daf2f3f9d70148c49202dbc973c01d84bf0d8a1d827.json",
+    "d360204b79c43439b98eafbb8228a1115e9e96e31500cd00889355cc003054fa": "calibration_snapshots/d360204b79c43439b98eafbb8228a1115e9e96e31500cd00889355cc003054fa.json",
+    "d7f0eb4e85c8ebe01f18789de2766d87c3ff952aa29a9bb2eff6a64ea90a5007": "calibration_snapshots/d7f0eb4e85c8ebe01f18789de2766d87c3ff952aa29a9bb2eff6a64ea90a5007.json",
+    "dead1acaca2d42001521bf4091a4402fcef487bd158025cfaa721e5020ef888c": "calibration_snapshots/dead1acaca2d42001521bf4091a4402fcef487bd158025cfaa721e5020ef888c.json",
+    "e2350203a30715b32981132684c360e7cf90981878915edf9441025fe4fabdc6": "calibration_snapshots/e2350203a30715b32981132684c360e7cf90981878915edf9441025fe4fabdc6.json",
+    "e2a743f9485cfc550eb6fb400be8fa6c8c034fddefe074bcc30342758cc1ccc6": "calibration_snapshots/e2a743f9485cfc550eb6fb400be8fa6c8c034fddefe074bcc30342758cc1ccc6.json",
+    "e513cd4fd6b1393bf8f775b825c3827026ec28b76a7614d0a7d2fb384d6de05b": "calibration_snapshots/e513cd4fd6b1393bf8f775b825c3827026ec28b76a7614d0a7d2fb384d6de05b.json",
+    "eb80901eb154c1e57a7ca281205bbe2daf48199443da0f443e5661c148089e1f": "calibration_snapshots/eb80901eb154c1e57a7ca281205bbe2daf48199443da0f443e5661c148089e1f.json",
+    "eba25440081e639419ec87915f47bd65142bae44c7539652230c674b4031cc38": "calibration_snapshots/eba25440081e639419ec87915f47bd65142bae44c7539652230c674b4031cc38.json",
+    "f15eeb94a2da46e4061ad69b07ba045cc57a285ba12f8cff020c1926dde08592": "calibration_snapshots/f15eeb94a2da46e4061ad69b07ba045cc57a285ba12f8cff020c1926dde08592.json",
+    "f79464de1d8050f273bbad1004e8568779461f956e31bdab564a384c7ab7b65e": "calibration_snapshots/f79464de1d8050f273bbad1004e8568779461f956e31bdab564a384c7ab7b65e.json",
+    "fa851462c5d6030d371930e40d14f873c43282f18506989a261b7ee0cd5d004f": "calibration_snapshots/fa851462c5d6030d371930e40d14f873c43282f18506989a261b7ee0cd5d004f.json",
+    "fc422326bebd1a6545c5ccfcba8bf31447276a69f0a20a53b6fcefef11658893": "calibration_snapshots/fc422326bebd1a6545c5ccfcba8bf31447276a69f0a20a53b6fcefef11658893.json",
+    "fd9c351faf5028ea0585d5e69fc2c34832aa39d9f3fa398f556aad993e984eca": "calibration_snapshots/fd9c351faf5028ea0585d5e69fc2c34832aa39d9f3fa398f556aad993e984eca.json"
+  },
+  "experiment_files_not_matched": [],
+  "experiment_files_without_job_id": [
+    "IBM_Bernstein_Vazirani_n5.json",
+    "IBM_QFT_roundtrip_n5.json",
+    "IBM_QPE_n5.json",
+    "IBM_Random_Layers_n5.json",
+    "QCTRL_Bernstein_Vazirani_n5.json",
+    "QCTRL_QFT_roundtrip_n5.json",
+    "QCTRL_QPE_n5.json",
+    "QCTRL_Random_Layers_n5.json",
+    "ghz_parity/QCTRL_GHZ_n5.json",
+    "sampler_benchmark-QCTRL/sampler_benchmark_submitted_jobs.json",
+    "sampler_benchmark-QCTRL-RND/sampler_benchmark_submitted_jobs.json"
+  ],
+  "export_metadata": {
+    "catalog_auth_error": null,
+    "include_backend_properties": true,
+    "input_ids": {
+      "batch_ids": [],
+      "function_job_ids": [
+        "e58d4f4a-0560-4438-ad2c-407532b445fa",
+        "2d258c03-4265-4ee9-b1a8-b974a14e047e",
+        "db75adbd-1537-4e7b-8d57-1e6839d2c08f",
+        "3adfcd16-fe3a-4c8a-a36d-57bbb66ef6eb",
+        "df40092a-7e1c-41ab-9a52-db53914c9c70",
+        "518b77c3-3b69-4c60-b390-9308f132a927",
+        "f0d2caaa-0d95-4472-9d7f-68267d777720",
+        "b9357e1e-e7dc-4f0d-97c9-b05adf10e708",
+        "2fa397f9-140d-4d70-a69c-f71cd0cb7983",
+        "6e5c0afc-7d48-4e77-9ab1-537cb790e9fd",
+        "c656f3ae-368d-49c1-b2cb-d240e15d9cd3",
+        "60ac4581-8b74-4078-a6b9-1708efd15b40",
+        "4b3e4ab5-0f54-4522-a303-2e51f8af178e",
+        "26c2dee4-b8ba-4be9-933b-b74c43d772de",
+        "7472b14f-7ccf-40a3-9aa6-560f2e9be570",
+        "f64d97a4-2a5e-41f5-8507-4a0f082b1430",
+        "d5c8dff5-4fc2-4619-a484-b2230b152882",
+        "9a455734-b445-4984-bf1d-38788a2ed205",
+        "08cce1b7-1caa-4c35-9fa6-a798bd361d08",
+        "2fd27b98-4cda-4fdb-b34a-392b568b25d9",
+        "16ea48d1-d9d6-403d-b399-adccc7d42997",
+        "2414fb86-2f60-4d78-bfbb-a36c78d26914",
+        "923a7c33-5eea-476b-9794-41da3a5aa471",
+        "4b80b737-f982-4d36-ae9e-cc01ad870cb6",
+        "2a3f7475-37b2-4dbc-a3ec-01391a4c0c25",
+        "e78d8b74-4a29-40e7-ad19-d2a4993e6464",
+        "cbba293e-5e58-4f36-8f47-2c64e3fe0fe7",
+        "fdc2aa2e-a8c8-4681-ac7f-d3d16560b6c2",
+        "7cd1ceca-76ec-4a85-b07a-28d7be62b11f",
+        "6bda7873-b35f-474c-a9e2-be3fef82c862",
+        "9b5a3e56-b669-48a9-bd7d-fbf1fcc8f450",
+        "7d2ed44f-6934-4326-8087-e58d95cdf600",
+        "e6890fb9-566d-4f4e-be9b-ea9a6a5f9e86",
+        "683fec4d-6773-4952-9f9e-25ceec279e21",
+        "6e591dc1-f7ab-427b-a8d9-cc674d71e008",
+        "a4ce15be-ae59-44a9-b011-4d2780d87c33",
+        "a3f21783-ecae-4aa5-b856-9f40f4317e07",
+        "aa25a037-ffbc-4b16-afd0-2d8598b6dc61",
+        "32fc35fb-af5d-4a0e-afb6-0fc118fcfc51",
+        "3e465984-7894-4689-a472-2982872b9eac",
+        "665229b6-ebcf-4027-a0c0-07f4298be76a",
+        "93ac77b4-4fe6-47bd-b257-b9444355e6b0",
+        "d82c6d70-e03b-40c7-b69f-cd6076d04cca",
+        "29a732de-9d31-4304-86bc-7b5eb67578bf",
+        "e3c41fb7-3dd8-4648-ba29-035cd66270ec",
+        "3a92da7c-e583-4ab4-a207-7ef261f91961",
+        "98a979a2-53bc-4c47-8dcb-3068c66a7d5f",
+        "aa62ab44-d7d3-4e61-8408-c76593295f23",
+        "e8b36bbc-426c-45db-913f-3e6b9c23b3c6",
+        "8dcc5f45-524f-4973-90f7-aac50f701c64"
+      ],
+      "runtime_job_ids": [
+        "d8qvms6gbcrc73f3v89g",
+        "d8r53deab0ds73dr8phg",
+        "d8rf4dmab0ds73drk25g",
+        "d8ri28i01fac73d4c7v0",
+        "d97cvqd2su3c739hvcf0",
+        "d96vk7sqp3as739r3t1g",
+        "d97f5iaf47jc73a6m8a0",
+        "d96ql9if47jc73a5tqtg",
+        "d96rhjgtcv6s73dk4if0",
+        "d96rta4qp3as739qvb6g",
+        "d979bokqp3as739rg9fg",
+        "d96thj8tcv6s73dk6o7g",
+        "d96uof0tcv6s73dk88hg",
+        "d97bctif47jc73a6i6h0",
+        "d96v222f47jc73a62o8g",
+        "d97eh3if47jc73a6lhcg",
+        "d96qk44qp3as739qu2mg",
+        "d96r6u4qp3as739qukng",
+        "d96rsj4qp3as739qvabg",
+        "d978e4kqp3as739rf8pg",
+        "d96stogtcv6s73dk60h0",
+        "d96tkft2su3c739hcac0",
+        "d9a036gtcv6s73dnrudg",
+        "d9a030l2su3c739l0asg",
+        "d9a032otcv6s73dnru8g",
+        "d9a034d2su3c739l0b20",
+        "d9a036cqp3as739ulvd0",
+        "d9a030d2su3c739l0as0",
+        "d9a032l2su3c739l0b00",
+        "d9a0348tcv6s73dnrua0",
+        "d91h10j57qjs73b6bfng",
+        "d91irt7qq29s738np1i0",
+        "d9213luu9n7c73aniku0",
+        "d91i5fnccmks73d56rbg",
+        "d91issr57qjs73b6et40",
+        "d921d3vqq29s738ohgqg",
+        "d8skudtposuc738nfilg",
+        "d8t1ahlposuc738o14dg",
+        "d8tt4ddposuc738p9e4g",
+        "d8tuvn5posuc738pbs2g",
+        "d8u3t5stqbtc73d17b0g",
+        "d8s47u6ab0ds73dsbq4g",
+        "d8sdbcmkodhs7385eahg",
+        "d8seq9sbp3hs73830o90",
+        "d8sfutkbp3hs73832ceg",
+        "d8sl6jlposuc738nfum0",
+        "d8t25u5posuc738o2ehg",
+        "d8tttalbh0os73eq6ejg",
+        "d8u0i0lposuc738pdsv0",
+        "d8u56t4tqbtc73d196m0",
+        "d8s4ova01fac73d51on0",
+        "d8sdopa01fac73d5ca8g",
+        "d8serhktqbtc73curps0",
+        "d8sg00tbh0os73eo4mp0",
+        "d8vvclopknjs73a1nf4g",
+        "d902n1emvj5c73eimnj0",
+        "d8vmvpemvj5c73ei5140",
+        "d8vq2qo6c68s73ah66f0",
+        "d8vtd406c68s73ahb2fg",
+        "d900e8propqc738d4t90",
+        "d903vd1ropqc738da780",
+        "d8vnrm6mvj5c73ei6jt0",
+        "d8vr5ggpknjs73a1h7og",
+        "d8vtocopknjs73a1l2og"
+      ]
+    },
+    "read_only": true,
+    "retrieved_at_utc": "2026-09-08T01:42:39.770528+00:00",
+    "schema_version": 2,
+    "summary": {
+      "batch_count": 0,
+      "batch_metadata_status_counts": {},
+      "calibration_lookup_source_counts": {
+        "execution_start": 86,
+        "none": 12
+      },
+      "calibration_status_counts": {
+        "retrieved": 86,
+        "unavailable": 12
+      },
+      "direct_runtime_job_count": 64,
+      "function_child_discovery_status_counts": {
+        "retrieved": 34,
+        "unavailable": 16
+      },
+      "function_job_count": 50,
+      "function_metadata_status_counts": {
+        "partial": 16,
+        "retrieved": 34
+      },
+      "runtime_metadata_status_counts": {
+        "failed": 12,
+        "retrieved": 86
+      },
+      "unique_calibration_snapshot_count": 40,
+      "unique_runtime_job_count": 98
+    }
+  },
+  "groups": {
+    "batches": [],
+    "function_jobs": [
+      "e58d4f4a-0560-4438-ad2c-407532b445fa",
+      "2d258c03-4265-4ee9-b1a8-b974a14e047e",
+      "db75adbd-1537-4e7b-8d57-1e6839d2c08f",
+      "3adfcd16-fe3a-4c8a-a36d-57bbb66ef6eb",
+      "df40092a-7e1c-41ab-9a52-db53914c9c70",
+      "518b77c3-3b69-4c60-b390-9308f132a927",
+      "f0d2caaa-0d95-4472-9d7f-68267d777720",
+      "b9357e1e-e7dc-4f0d-97c9-b05adf10e708",
+      "2fa397f9-140d-4d70-a69c-f71cd0cb7983",
+      "6e5c0afc-7d48-4e77-9ab1-537cb790e9fd",
+      "c656f3ae-368d-49c1-b2cb-d240e15d9cd3",
+      "60ac4581-8b74-4078-a6b9-1708efd15b40",
+      "4b3e4ab5-0f54-4522-a303-2e51f8af178e",
+      "26c2dee4-b8ba-4be9-933b-b74c43d772de",
+      "7472b14f-7ccf-40a3-9aa6-560f2e9be570",
+      "f64d97a4-2a5e-41f5-8507-4a0f082b1430",
+      "d5c8dff5-4fc2-4619-a484-b2230b152882",
+      "9a455734-b445-4984-bf1d-38788a2ed205",
+      "08cce1b7-1caa-4c35-9fa6-a798bd361d08",
+      "2fd27b98-4cda-4fdb-b34a-392b568b25d9",
+      "16ea48d1-d9d6-403d-b399-adccc7d42997",
+      "2414fb86-2f60-4d78-bfbb-a36c78d26914",
+      "923a7c33-5eea-476b-9794-41da3a5aa471",
+      "4b80b737-f982-4d36-ae9e-cc01ad870cb6",
+      "2a3f7475-37b2-4dbc-a3ec-01391a4c0c25",
+      "e78d8b74-4a29-40e7-ad19-d2a4993e6464",
+      "cbba293e-5e58-4f36-8f47-2c64e3fe0fe7",
+      "fdc2aa2e-a8c8-4681-ac7f-d3d16560b6c2",
+      "7cd1ceca-76ec-4a85-b07a-28d7be62b11f",
+      "6bda7873-b35f-474c-a9e2-be3fef82c862",
+      "9b5a3e56-b669-48a9-bd7d-fbf1fcc8f450",
+      "7d2ed44f-6934-4326-8087-e58d95cdf600",
+      "e6890fb9-566d-4f4e-be9b-ea9a6a5f9e86",
+      "683fec4d-6773-4952-9f9e-25ceec279e21",
+      "6e591dc1-f7ab-427b-a8d9-cc674d71e008",
+      "a4ce15be-ae59-44a9-b011-4d2780d87c33",
+      "a3f21783-ecae-4aa5-b856-9f40f4317e07",
+      "aa25a037-ffbc-4b16-afd0-2d8598b6dc61",
+      "32fc35fb-af5d-4a0e-afb6-0fc118fcfc51",
+      "3e465984-7894-4689-a472-2982872b9eac",
+      "665229b6-ebcf-4027-a0c0-07f4298be76a",
+      "93ac77b4-4fe6-47bd-b257-b9444355e6b0",
+      "d82c6d70-e03b-40c7-b69f-cd6076d04cca",
+      "29a732de-9d31-4304-86bc-7b5eb67578bf",
+      "e3c41fb7-3dd8-4648-ba29-035cd66270ec",
+      "3a92da7c-e583-4ab4-a207-7ef261f91961",
+      "98a979a2-53bc-4c47-8dcb-3068c66a7d5f",
+      "aa62ab44-d7d3-4e61-8408-c76593295f23",
+      "e8b36bbc-426c-45db-913f-3e6b9c23b3c6",
+      "8dcc5f45-524f-4973-90f7-aac50f701c64"
+    ],
+    "runtime_jobs": [
+      "d8qvms6gbcrc73f3v89g",
+      "d8r53deab0ds73dr8phg",
+      "d8rf4dmab0ds73drk25g",
+      "d8ri28i01fac73d4c7v0",
+      "d97cvqd2su3c739hvcf0",
+      "d96vk7sqp3as739r3t1g",
+      "d97f5iaf47jc73a6m8a0",
+      "d96ql9if47jc73a5tqtg",
+      "d96rhjgtcv6s73dk4if0",
+      "d96rta4qp3as739qvb6g",
+      "d979bokqp3as739rg9fg",
+      "d96thj8tcv6s73dk6o7g",
+      "d96uof0tcv6s73dk88hg",
+      "d97bctif47jc73a6i6h0",
+      "d96v222f47jc73a62o8g",
+      "d97eh3if47jc73a6lhcg",
+      "d96qk44qp3as739qu2mg",
+      "d96r6u4qp3as739qukng",
+      "d96rsj4qp3as739qvabg",
+      "d978e4kqp3as739rf8pg",
+      "d96stogtcv6s73dk60h0",
+      "d96tkft2su3c739hcac0",
+      "d9a036gtcv6s73dnrudg",
+      "d9a030l2su3c739l0asg",
+      "d9a032otcv6s73dnru8g",
+      "d9a034d2su3c739l0b20",
+      "d9a036cqp3as739ulvd0",
+      "d9a030d2su3c739l0as0",
+      "d9a032l2su3c739l0b00",
+      "d9a0348tcv6s73dnrua0",
+      "d91h10j57qjs73b6bfng",
+      "d91irt7qq29s738np1i0",
+      "d9213luu9n7c73aniku0",
+      "d91i5fnccmks73d56rbg",
+      "d91issr57qjs73b6et40",
+      "d921d3vqq29s738ohgqg",
+      "d8skudtposuc738nfilg",
+      "d8t1ahlposuc738o14dg",
+      "d8tt4ddposuc738p9e4g",
+      "d8tuvn5posuc738pbs2g",
+      "d8u3t5stqbtc73d17b0g",
+      "d8s47u6ab0ds73dsbq4g",
+      "d8sdbcmkodhs7385eahg",
+      "d8seq9sbp3hs73830o90",
+      "d8sfutkbp3hs73832ceg",
+      "d8sl6jlposuc738nfum0",
+      "d8t25u5posuc738o2ehg",
+      "d8tttalbh0os73eq6ejg",
+      "d8u0i0lposuc738pdsv0",
+      "d8u56t4tqbtc73d196m0",
+      "d8s4ova01fac73d51on0",
+      "d8sdopa01fac73d5ca8g",
+      "d8serhktqbtc73curps0",
+      "d8sg00tbh0os73eo4mp0",
+      "d8vvclopknjs73a1nf4g",
+      "d902n1emvj5c73eimnj0",
+      "d8vmvpemvj5c73ei5140",
+      "d8vq2qo6c68s73ah66f0",
+      "d8vtd406c68s73ahb2fg",
+      "d900e8propqc738d4t90",
+      "d903vd1ropqc738da780",
+      "d8vnrm6mvj5c73ei6jt0",
+      "d8vr5ggpknjs73a1h7og",
+      "d8vtocopknjs73a1l2og"
+    ]
+  },
+  "jobs": {
+    "08cce1b7-1caa-4c35-9fa6-a798bd361d08": {
+      "calibration_snapshot_ids": [
+        "76832055f59d8c381d115b34955f62f2dcfb51324247d858086031c096b9bf0d"
+      ],
+      "experiment_files": [
+        "jobs/08cce1b7-1caa-4c35-9fa6-a798bd361d08/experiments/sampler_benchmark-QCTRL-RND/Q_CTRL_SAMPLER_n75.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/08cce1b7-1caa-4c35-9fa6-a798bd361d08/metadata.json",
+      "parent_ids": []
+    },
+    "16ea48d1-d9d6-403d-b399-adccc7d42997": {
+      "calibration_snapshot_ids": [
+        "6aebe87f861ce2247e3ad511ea8ecfcdafa39ce351dd280f6203cfc45b346c6e"
+      ],
+      "experiment_files": [
+        "jobs/16ea48d1-d9d6-403d-b399-adccc7d42997/experiments/tfim_probe/QCTRL_TFIM_n50.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/16ea48d1-d9d6-403d-b399-adccc7d42997/metadata.json",
+      "parent_ids": []
+    },
+    "2414fb86-2f60-4d78-bfbb-a36c78d26914": {
+      "calibration_snapshot_ids": [
+        "f79464de1d8050f273bbad1004e8568779461f956e31bdab564a384c7ab7b65e"
+      ],
+      "experiment_files": [
+        "jobs/2414fb86-2f60-4d78-bfbb-a36c78d26914/experiments/tfim_probe/QCTRL_TFIM_n75.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/2414fb86-2f60-4d78-bfbb-a36c78d26914/metadata.json",
+      "parent_ids": []
+    },
+    "26c2dee4-b8ba-4be9-933b-b74c43d772de": {
+      "calibration_snapshot_ids": [
+        "d32557497c0ac73cf60a9daf2f3f9d70148c49202dbc973c01d84bf0d8a1d827"
+      ],
+      "experiment_files": [
+        "jobs/26c2dee4-b8ba-4be9-933b-b74c43d772de/experiments/sampler_benchmark-QCTRL/Q_CTRL_SAMPLER_n50.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/26c2dee4-b8ba-4be9-933b-b74c43d772de/metadata.json",
+      "parent_ids": []
+    },
+    "29a732de-9d31-4304-86bc-7b5eb67578bf": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/29a732de-9d31-4304-86bc-7b5eb67578bf/experiments/tfim_probe-16layers-full-chain/QCTRL_TFIM_n100.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/29a732de-9d31-4304-86bc-7b5eb67578bf/metadata.json",
+      "parent_ids": []
+    },
+    "2a3f7475-37b2-4dbc-a3ec-01391a4c0c25": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/2a3f7475-37b2-4dbc-a3ec-01391a4c0c25/experiments/tfim_probe/QESEM_TFIM_n75.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/2a3f7475-37b2-4dbc-a3ec-01391a4c0c25/metadata.json",
+      "parent_ids": []
+    },
+    "2d258c03-4265-4ee9-b1a8-b974a14e047e": {
+      "calibration_snapshot_ids": [
+        "3e5b49c6f0d13ecd47d841db9efaf2e0f6fff46802a414e651fa2884601de6de"
+      ],
+      "experiment_files": [
+        "jobs/2d258c03-4265-4ee9-b1a8-b974a14e047e/experiments/ghz_parity/QCTRL_GHZ_n40.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/2d258c03-4265-4ee9-b1a8-b974a14e047e/metadata.json",
+      "parent_ids": []
+    },
+    "2fa397f9-140d-4d70-a69c-f71cd0cb7983": {
+      "calibration_snapshot_ids": [
+        "101a0a78908fc3bcc97bfea86cfe39af44eed5e14ec1cc4d7fb353fc5c92e239"
+      ],
+      "experiment_files": [
+        "jobs/2fa397f9-140d-4d70-a69c-f71cd0cb7983/experiments/sampler_benchmark-QCTRL/Q_CTRL_SAMPLER_n10.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/2fa397f9-140d-4d70-a69c-f71cd0cb7983/metadata.json",
+      "parent_ids": []
+    },
+    "2fd27b98-4cda-4fdb-b34a-392b568b25d9": {
+      "calibration_snapshot_ids": [
+        "f15eeb94a2da46e4061ad69b07ba045cc57a285ba12f8cff020c1926dde08592"
+      ],
+      "experiment_files": [
+        "jobs/2fd27b98-4cda-4fdb-b34a-392b568b25d9/experiments/tfim_probe/QCTRL_TFIM_n25.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/2fd27b98-4cda-4fdb-b34a-392b568b25d9/metadata.json",
+      "parent_ids": []
+    },
+    "32fc35fb-af5d-4a0e-afb6-0fc118fcfc51": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/32fc35fb-af5d-4a0e-afb6-0fc118fcfc51/experiments/tfim_probe-10K-8sites/QESEM_TFIM_n150.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/32fc35fb-af5d-4a0e-afb6-0fc118fcfc51/metadata.json",
+      "parent_ids": []
+    },
+    "3a92da7c-e583-4ab4-a207-7ef261f91961": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/3a92da7c-e583-4ab4-a207-7ef261f91961/experiments/tfim_probe-16layers-full-chain/QCTRL_TFIM_n25.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/3a92da7c-e583-4ab4-a207-7ef261f91961/metadata.json",
+      "parent_ids": []
+    },
+    "3adfcd16-fe3a-4c8a-a36d-57bbb66ef6eb": {
+      "calibration_snapshot_ids": [
+        "03d4e89f65c96cb9bb6dd10ffd4a35b721ca46284e4980be55ab143e89b08313"
+      ],
+      "experiment_files": [
+        "jobs/3adfcd16-fe3a-4c8a-a36d-57bbb66ef6eb/experiments/ghz_parity/QCTRL_GHZ_n80.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/3adfcd16-fe3a-4c8a-a36d-57bbb66ef6eb/metadata.json",
+      "parent_ids": []
+    },
+    "3e465984-7894-4689-a472-2982872b9eac": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/3e465984-7894-4689-a472-2982872b9eac/experiments/tfim_probe-10K-8sites/QESEM_TFIM_n20.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/3e465984-7894-4689-a472-2982872b9eac/metadata.json",
+      "parent_ids": []
+    },
+    "4b3e4ab5-0f54-4522-a303-2e51f8af178e": {
+      "calibration_snapshot_ids": [
+        "88ab6aa6fd8289d8f2b795ef907daa202dbdfda60aa3a43ca6613f8575942479"
+      ],
+      "experiment_files": [
+        "jobs/4b3e4ab5-0f54-4522-a303-2e51f8af178e/experiments/sampler_benchmark-QCTRL/Q_CTRL_SAMPLER_n30.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/4b3e4ab5-0f54-4522-a303-2e51f8af178e/metadata.json",
+      "parent_ids": []
+    },
+    "4b80b737-f982-4d36-ae9e-cc01ad870cb6": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/4b80b737-f982-4d36-ae9e-cc01ad870cb6/experiments/tfim_probe/QESEM_TFIM_n50.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/4b80b737-f982-4d36-ae9e-cc01ad870cb6/metadata.json",
+      "parent_ids": []
+    },
+    "518b77c3-3b69-4c60-b390-9308f132a927": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/518b77c3-3b69-4c60-b390-9308f132a927/experiments/ghz_parity/QESEM_GHZ_n40.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/518b77c3-3b69-4c60-b390-9308f132a927/metadata.json",
+      "parent_ids": []
+    },
+    "60ac4581-8b74-4078-a6b9-1708efd15b40": {
+      "calibration_snapshot_ids": [
+        "101a0a78908fc3bcc97bfea86cfe39af44eed5e14ec1cc4d7fb353fc5c92e239"
+      ],
+      "experiment_files": [
+        "jobs/60ac4581-8b74-4078-a6b9-1708efd15b40/experiments/sampler_benchmark-QCTRL/Q_CTRL_SAMPLER_n25.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/60ac4581-8b74-4078-a6b9-1708efd15b40/metadata.json",
+      "parent_ids": []
+    },
+    "665229b6-ebcf-4027-a0c0-07f4298be76a": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/665229b6-ebcf-4027-a0c0-07f4298be76a/experiments/tfim_probe-10K-8sites/QESEM_TFIM_n40.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/665229b6-ebcf-4027-a0c0-07f4298be76a/metadata.json",
+      "parent_ids": []
+    },
+    "683fec4d-6773-4952-9f9e-25ceec279e21": {
+      "calibration_snapshot_ids": [
+        "321dd109738fc0d12c30dfa86f9554f93c096bafc8828583e7c69c9a1d710c99"
+      ],
+      "experiment_files": [
+        "jobs/683fec4d-6773-4952-9f9e-25ceec279e21/experiments/tfim_probe-10K-8sites/QCTRL_TFIM_n80.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/683fec4d-6773-4952-9f9e-25ceec279e21/metadata.json",
+      "parent_ids": []
+    },
+    "6bda7873-b35f-474c-a9e2-be3fef82c862": {
+      "calibration_snapshot_ids": [
+        "42473210ca1f00f21a86e1c4e816e30d051043f828e00c64722c264fd459e1b7"
+      ],
+      "experiment_files": [
+        "jobs/6bda7873-b35f-474c-a9e2-be3fef82c862/experiments/tfim_probe-10K-8sites/QCTRL_TFIM_n150.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/6bda7873-b35f-474c-a9e2-be3fef82c862/metadata.json",
+      "parent_ids": []
+    },
+    "6e591dc1-f7ab-427b-a8d9-cc674d71e008": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/6e591dc1-f7ab-427b-a8d9-cc674d71e008/experiments/tfim_probe-10K-8sites/QESEM_TFIM_n100.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/6e591dc1-f7ab-427b-a8d9-cc674d71e008/metadata.json",
+      "parent_ids": []
+    },
+    "6e5c0afc-7d48-4e77-9ab1-537cb790e9fd": {
+      "calibration_snapshot_ids": [
+        "d32557497c0ac73cf60a9daf2f3f9d70148c49202dbc973c01d84bf0d8a1d827"
+      ],
+      "experiment_files": [
+        "jobs/6e5c0afc-7d48-4e77-9ab1-537cb790e9fd/experiments/sampler_benchmark-QCTRL/Q_CTRL_SAMPLER_n100.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/6e5c0afc-7d48-4e77-9ab1-537cb790e9fd/metadata.json",
+      "parent_ids": []
+    },
+    "7472b14f-7ccf-40a3-9aa6-560f2e9be570": {
+      "calibration_snapshot_ids": [
+        "d32557497c0ac73cf60a9daf2f3f9d70148c49202dbc973c01d84bf0d8a1d827"
+      ],
+      "experiment_files": [
+        "jobs/7472b14f-7ccf-40a3-9aa6-560f2e9be570/experiments/sampler_benchmark-QCTRL/Q_CTRL_SAMPLER_n75.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/7472b14f-7ccf-40a3-9aa6-560f2e9be570/metadata.json",
+      "parent_ids": []
+    },
+    "7cd1ceca-76ec-4a85-b07a-28d7be62b11f": {
+      "calibration_snapshot_ids": [
+        "42169eaf4f53928740645563db8922783a391b6d0b8a99085e62a348e61091d3"
+      ],
+      "experiment_files": [
+        "jobs/7cd1ceca-76ec-4a85-b07a-28d7be62b11f/experiments/tfim_probe-10K-8sites/QCTRL_TFIM_n140.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/7cd1ceca-76ec-4a85-b07a-28d7be62b11f/metadata.json",
+      "parent_ids": []
+    },
+    "7d2ed44f-6934-4326-8087-e58d95cdf600": {
+      "calibration_snapshot_ids": [
+        "d360204b79c43439b98eafbb8228a1115e9e96e31500cd00889355cc003054fa"
+      ],
+      "experiment_files": [
+        "jobs/7d2ed44f-6934-4326-8087-e58d95cdf600/experiments/tfim_probe-10K-8sites/QCTRL_TFIM_n40.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/7d2ed44f-6934-4326-8087-e58d95cdf600/metadata.json",
+      "parent_ids": []
+    },
+    "8dcc5f45-524f-4973-90f7-aac50f701c64": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/8dcc5f45-524f-4973-90f7-aac50f701c64/experiments/tfim_probe-16layers-full-chain/QESEM_TFIM_n50.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/8dcc5f45-524f-4973-90f7-aac50f701c64/metadata.json",
+      "parent_ids": []
+    },
+    "923a7c33-5eea-476b-9794-41da3a5aa471": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/923a7c33-5eea-476b-9794-41da3a5aa471/experiments/tfim_probe/QESEM_TFIM_n25.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/923a7c33-5eea-476b-9794-41da3a5aa471/metadata.json",
+      "parent_ids": []
+    },
+    "93ac77b4-4fe6-47bd-b257-b9444355e6b0": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/93ac77b4-4fe6-47bd-b257-b9444355e6b0/experiments/tfim_probe-10K-8sites/QESEM_TFIM_n60.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/93ac77b4-4fe6-47bd-b257-b9444355e6b0/metadata.json",
+      "parent_ids": []
+    },
+    "98a979a2-53bc-4c47-8dcb-3068c66a7d5f": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/98a979a2-53bc-4c47-8dcb-3068c66a7d5f/experiments/tfim_probe-16layers-full-chain/QCTRL_TFIM_n50.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/98a979a2-53bc-4c47-8dcb-3068c66a7d5f/metadata.json",
+      "parent_ids": []
+    },
+    "9a455734-b445-4984-bf1d-38788a2ed205": {
+      "calibration_snapshot_ids": [
+        "6a34de6b1cb3b3f099d55d442f687c9c4d6ff0ec4b0915683b986312ca3e82cb"
+      ],
+      "experiment_files": [
+        "jobs/9a455734-b445-4984-bf1d-38788a2ed205/experiments/sampler_benchmark-QCTRL-RND/Q_CTRL_SAMPLER_n50.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/9a455734-b445-4984-bf1d-38788a2ed205/metadata.json",
+      "parent_ids": []
+    },
+    "9b5a3e56-b669-48a9-bd7d-fbf1fcc8f450": {
+      "calibration_snapshot_ids": [
+        "63a9b5f78e427606c8bd3587e7982a869d17aa270ed9e8f61d9073cccbcd754b"
+      ],
+      "experiment_files": [
+        "jobs/9b5a3e56-b669-48a9-bd7d-fbf1fcc8f450/experiments/tfim_probe-10K-8sites/QCTRL_TFIM_n20.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/9b5a3e56-b669-48a9-bd7d-fbf1fcc8f450/metadata.json",
+      "parent_ids": []
+    },
+    "a3f21783-ecae-4aa5-b856-9f40f4317e07": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/a3f21783-ecae-4aa5-b856-9f40f4317e07/experiments/tfim_probe-10K-8sites/QESEM_TFIM_n130.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/a3f21783-ecae-4aa5-b856-9f40f4317e07/metadata.json",
+      "parent_ids": []
+    },
+    "a4ce15be-ae59-44a9-b011-4d2780d87c33": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/a4ce15be-ae59-44a9-b011-4d2780d87c33/experiments/tfim_probe-10K-8sites/QESEM_TFIM_n120.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/a4ce15be-ae59-44a9-b011-4d2780d87c33/metadata.json",
+      "parent_ids": []
+    },
+    "aa25a037-ffbc-4b16-afd0-2d8598b6dc61": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/aa25a037-ffbc-4b16-afd0-2d8598b6dc61/experiments/tfim_probe-10K-8sites/QESEM_TFIM_n140.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/aa25a037-ffbc-4b16-afd0-2d8598b6dc61/metadata.json",
+      "parent_ids": []
+    },
+    "aa62ab44-d7d3-4e61-8408-c76593295f23": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/aa62ab44-d7d3-4e61-8408-c76593295f23/experiments/tfim_probe-16layers-full-chain/QCTRL_TFIM_n75.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/aa62ab44-d7d3-4e61-8408-c76593295f23/metadata.json",
+      "parent_ids": []
+    },
+    "b9357e1e-e7dc-4f0d-97c9-b05adf10e708": {
+      "calibration_snapshot_ids": [
+        "935f4ea301723ac6771b15a87355be5afb5272c708647a4b54fa30adea52ed75"
+      ],
+      "experiment_files": [
+        "jobs/b9357e1e-e7dc-4f0d-97c9-b05adf10e708/experiments/sampler_benchmark/Q_CTRL_SAMPLER_n5.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/b9357e1e-e7dc-4f0d-97c9-b05adf10e708/metadata.json",
+      "parent_ids": []
+    },
+    "c656f3ae-368d-49c1-b2cb-d240e15d9cd3": {
+      "calibration_snapshot_ids": [
+        "101a0a78908fc3bcc97bfea86cfe39af44eed5e14ec1cc4d7fb353fc5c92e239"
+      ],
+      "experiment_files": [
+        "jobs/c656f3ae-368d-49c1-b2cb-d240e15d9cd3/experiments/sampler_benchmark-QCTRL/Q_CTRL_SAMPLER_n20.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/c656f3ae-368d-49c1-b2cb-d240e15d9cd3/metadata.json",
+      "parent_ids": []
+    },
+    "cbba293e-5e58-4f36-8f47-2c64e3fe0fe7": {
+      "calibration_snapshot_ids": [
+        "eb80901eb154c1e57a7ca281205bbe2daf48199443da0f443e5661c148089e1f"
+      ],
+      "experiment_files": [
+        "jobs/cbba293e-5e58-4f36-8f47-2c64e3fe0fe7/experiments/tfim_probe-10K-8sites/QCTRL_TFIM_n120.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/cbba293e-5e58-4f36-8f47-2c64e3fe0fe7/metadata.json",
+      "parent_ids": []
+    },
+    "d5c8dff5-4fc2-4619-a484-b2230b152882": {
+      "calibration_snapshot_ids": [
+        "6a34de6b1cb3b3f099d55d442f687c9c4d6ff0ec4b0915683b986312ca3e82cb"
+      ],
+      "experiment_files": [
+        "jobs/d5c8dff5-4fc2-4619-a484-b2230b152882/experiments/sampler_benchmark-QCTRL-RND/Q_CTRL_SAMPLER_n25.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/d5c8dff5-4fc2-4619-a484-b2230b152882/metadata.json",
+      "parent_ids": []
+    },
+    "d82c6d70-e03b-40c7-b69f-cd6076d04cca": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d82c6d70-e03b-40c7-b69f-cd6076d04cca/experiments/tfim_probe-10K-8sites/QESEM_TFIM_n80.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/d82c6d70-e03b-40c7-b69f-cd6076d04cca/metadata.json",
+      "parent_ids": []
+    },
+    "d8qvms6gbcrc73f3v89g": {
+      "calibration_snapshot_ids": [
+        "721b52c2c626268191eb93f8a373b64cf6287c638ee9702acc304d003bee3972"
+      ],
+      "experiment_files": [
+        "jobs/d8qvms6gbcrc73f3v89g/experiments/ghz_parity/IBM_DEFAULT_GHZ_n20.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8qvms6gbcrc73f3v89g/metadata.json",
+      "parent_ids": []
+    },
+    "d8r0vii01fac73d3olcg": {
+      "calibration_snapshot_ids": [
+        "bb2afab02cbceba6b1b82df45f22011ac753c5056e21ccac01f8cfd74dfadebb"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8r0vii01fac73d3olcg/metadata.json",
+      "parent_ids": [
+        "e58d4f4a-0560-4438-ad2c-407532b445fa"
+      ]
+    },
+    "d8r53deab0ds73dr8phg": {
+      "calibration_snapshot_ids": [
+        "3e5b49c6f0d13ecd47d841db9efaf2e0f6fff46802a414e651fa2884601de6de"
+      ],
+      "experiment_files": [
+        "jobs/d8r53deab0ds73dr8phg/experiments/ghz_parity/IBM_DEFAULT_GHZ_n40.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8r53deab0ds73dr8phg/metadata.json",
+      "parent_ids": []
+    },
+    "d8r6gra01fac73d3v32g": {
+      "calibration_snapshot_ids": [
+        "3e5b49c6f0d13ecd47d841db9efaf2e0f6fff46802a414e651fa2884601de6de"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8r6gra01fac73d3v32g/metadata.json",
+      "parent_ids": [
+        "2d258c03-4265-4ee9-b1a8-b974a14e047e"
+      ]
+    },
+    "d8rf4dmab0ds73drk25g": {
+      "calibration_snapshot_ids": [
+        "d7f0eb4e85c8ebe01f18789de2766d87c3ff952aa29a9bb2eff6a64ea90a5007"
+      ],
+      "experiment_files": [
+        "jobs/d8rf4dmab0ds73drk25g/experiments/ghz_parity/IBM_DEFAULT_GHZ_n60.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8rf4dmab0ds73drk25g/metadata.json",
+      "parent_ids": []
+    },
+    "d8rfoluab0ds73drkp6g": {
+      "calibration_snapshot_ids": [
+        "e2a743f9485cfc550eb6fb400be8fa6c8c034fddefe074bcc30342758cc1ccc6"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8rfoluab0ds73drkp6g/metadata.json",
+      "parent_ids": [
+        "db75adbd-1537-4e7b-8d57-1e6839d2c08f"
+      ]
+    },
+    "d8ri28i01fac73d4c7v0": {
+      "calibration_snapshot_ids": [
+        "e2a743f9485cfc550eb6fb400be8fa6c8c034fddefe074bcc30342758cc1ccc6"
+      ],
+      "experiment_files": [
+        "jobs/d8ri28i01fac73d4c7v0/experiments/ghz_parity/IBM_DEFAULT_GHZ_n80.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8ri28i01fac73d4c7v0/metadata.json",
+      "parent_ids": []
+    },
+    "d8riob201fac73d4cvr0": {
+      "calibration_snapshot_ids": [
+        "03d4e89f65c96cb9bb6dd10ffd4a35b721ca46284e4980be55ab143e89b08313"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8riob201fac73d4cvr0/metadata.json",
+      "parent_ids": [
+        "3adfcd16-fe3a-4c8a-a36d-57bbb66ef6eb"
+      ]
+    },
+    "d8s47u6ab0ds73dsbq4g": {
+      "calibration_snapshot_ids": [
+        "3bfb554df54257a29afa16d07449cbe033eba571a37a821fe918053a63162e50"
+      ],
+      "experiment_files": [
+        "jobs/d8s47u6ab0ds73dsbq4g/experiments/tfim_probe-10K-8sites/IBM_RAW_TFIM_n20.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8s47u6ab0ds73dsbq4g/metadata.json",
+      "parent_ids": []
+    },
+    "d8s4ova01fac73d51on0": {
+      "calibration_snapshot_ids": [
+        "3bfb554df54257a29afa16d07449cbe033eba571a37a821fe918053a63162e50"
+      ],
+      "experiment_files": [
+        "jobs/d8s4ova01fac73d51on0/experiments/tfim_probe-10K-8sites/IBM_TREX_TWIRLING_TFIM_n20.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8s4ova01fac73d51on0/metadata.json",
+      "parent_ids": []
+    },
+    "d8s639ugbcrc73f594mg": {
+      "calibration_snapshot_ids": [
+        "63a9b5f78e427606c8bd3587e7982a869d17aa270ed9e8f61d9073cccbcd754b"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8s639ugbcrc73f594mg/metadata.json",
+      "parent_ids": [
+        "9b5a3e56-b669-48a9-bd7d-fbf1fcc8f450"
+      ]
+    },
+    "d8sdbcmkodhs7385eahg": {
+      "calibration_snapshot_ids": [
+        "d360204b79c43439b98eafbb8228a1115e9e96e31500cd00889355cc003054fa"
+      ],
+      "experiment_files": [
+        "jobs/d8sdbcmkodhs7385eahg/experiments/tfim_probe-10K-8sites/IBM_RAW_TFIM_n40.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8sdbcmkodhs7385eahg/metadata.json",
+      "parent_ids": []
+    },
+    "d8sdopa01fac73d5ca8g": {
+      "calibration_snapshot_ids": [
+        "d360204b79c43439b98eafbb8228a1115e9e96e31500cd00889355cc003054fa"
+      ],
+      "experiment_files": [
+        "jobs/d8sdopa01fac73d5ca8g/experiments/tfim_probe-10K-8sites/IBM_TREX_TWIRLING_TFIM_n40.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8sdopa01fac73d5ca8g/metadata.json",
+      "parent_ids": []
+    },
+    "d8sdr86ab0ds73dsn5og": {
+      "calibration_snapshot_ids": [
+        "d360204b79c43439b98eafbb8228a1115e9e96e31500cd00889355cc003054fa"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8sdr86ab0ds73dsn5og/metadata.json",
+      "parent_ids": [
+        "7d2ed44f-6934-4326-8087-e58d95cdf600"
+      ]
+    },
+    "d8seq9sbp3hs73830o90": {
+      "calibration_snapshot_ids": [
+        "84fe10067095bc666a95aae93d219d4e5320485ebcf56430c0d8c015b5c0850f"
+      ],
+      "experiment_files": [
+        "jobs/d8seq9sbp3hs73830o90/experiments/tfim_probe-10K-8sites/IBM_RAW_TFIM_n60.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8seq9sbp3hs73830o90/metadata.json",
+      "parent_ids": []
+    },
+    "d8serhktqbtc73curps0": {
+      "calibration_snapshot_ids": [
+        "84fe10067095bc666a95aae93d219d4e5320485ebcf56430c0d8c015b5c0850f"
+      ],
+      "experiment_files": [
+        "jobs/d8serhktqbtc73curps0/experiments/tfim_probe-10K-8sites/IBM_TREX_TWIRLING_TFIM_n60.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8serhktqbtc73curps0/metadata.json",
+      "parent_ids": []
+    },
+    "d8sf4rdbh0os73eo3h0g": {
+      "calibration_snapshot_ids": [
+        "84fe10067095bc666a95aae93d219d4e5320485ebcf56430c0d8c015b5c0850f"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8sf4rdbh0os73eo3h0g/metadata.json",
+      "parent_ids": [
+        "e6890fb9-566d-4f4e-be9b-ea9a6a5f9e86"
+      ]
+    },
+    "d8sfutkbp3hs73832ceg": {
+      "calibration_snapshot_ids": [
+        "5d7278a601c6302fee8da9d7330c62c6da935b5d456c9a7a2bc5bb13ddf0c0c1"
+      ],
+      "experiment_files": [
+        "jobs/d8sfutkbp3hs73832ceg/experiments/tfim_probe-10K-8sites/IBM_RAW_TFIM_n80.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8sfutkbp3hs73832ceg/metadata.json",
+      "parent_ids": []
+    },
+    "d8sg00tbh0os73eo4mp0": {
+      "calibration_snapshot_ids": [
+        "5d7278a601c6302fee8da9d7330c62c6da935b5d456c9a7a2bc5bb13ddf0c0c1"
+      ],
+      "experiment_files": [
+        "jobs/d8sg00tbh0os73eo4mp0/experiments/tfim_probe-10K-8sites/IBM_TREX_TWIRLING_TFIM_n80.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8sg00tbh0os73eo4mp0/metadata.json",
+      "parent_ids": []
+    },
+    "d8sg25stqbtc73cutdt0": {
+      "calibration_snapshot_ids": [
+        "321dd109738fc0d12c30dfa86f9554f93c096bafc8828583e7c69c9a1d710c99"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8sg25stqbtc73cutdt0/metadata.json",
+      "parent_ids": [
+        "683fec4d-6773-4952-9f9e-25ceec279e21"
+      ]
+    },
+    "d8skudtposuc738nfilg": {
+      "calibration_snapshot_ids": [
+        "7f3308e5c0f9d6369a8d2e23716b454dde8ec0da5cee6d3dda76ca7962783030"
+      ],
+      "experiment_files": [
+        "jobs/d8skudtposuc738nfilg/experiments/tfim_probe-10K-8sites/IBM_RAW_TFIM_n100.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8skudtposuc738nfilg/metadata.json",
+      "parent_ids": []
+    },
+    "d8sl6jlposuc738nfum0": {
+      "calibration_snapshot_ids": [
+        "7f3308e5c0f9d6369a8d2e23716b454dde8ec0da5cee6d3dda76ca7962783030"
+      ],
+      "experiment_files": [
+        "jobs/d8sl6jlposuc738nfum0/experiments/tfim_probe-10K-8sites/IBM_TREX_TWIRLING_TFIM_n100.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8sl6jlposuc738nfum0/metadata.json",
+      "parent_ids": []
+    },
+    "d8sl9cstqbtc73cv58rg": {
+      "calibration_snapshot_ids": [
+        "7f3308e5c0f9d6369a8d2e23716b454dde8ec0da5cee6d3dda76ca7962783030"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8sl9cstqbtc73cv58rg/metadata.json",
+      "parent_ids": [
+        "e78d8b74-4a29-40e7-ad19-d2a4993e6464"
+      ]
+    },
+    "d8t1ahlposuc738o14dg": {
+      "calibration_snapshot_ids": [
+        "0bb07e7458ec7abfa020ec1e6e142982cc94e917b6e67616a9b0d248c5251d40"
+      ],
+      "experiment_files": [
+        "jobs/d8t1ahlposuc738o14dg/experiments/tfim_probe-10K-8sites/IBM_RAW_TFIM_n120.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8t1ahlposuc738o14dg/metadata.json",
+      "parent_ids": []
+    },
+    "d8t25u5posuc738o2ehg": {
+      "calibration_snapshot_ids": [
+        "eb80901eb154c1e57a7ca281205bbe2daf48199443da0f443e5661c148089e1f"
+      ],
+      "experiment_files": [
+        "jobs/d8t25u5posuc738o2ehg/experiments/tfim_probe-10K-8sites/IBM_TREX_TWIRLING_TFIM_n120.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8t25u5posuc738o2ehg/metadata.json",
+      "parent_ids": []
+    },
+    "d8t3brdbh0os73ep125g": {
+      "calibration_snapshot_ids": [
+        "eb80901eb154c1e57a7ca281205bbe2daf48199443da0f443e5661c148089e1f"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8t3brdbh0os73ep125g/metadata.json",
+      "parent_ids": [
+        "cbba293e-5e58-4f36-8f47-2c64e3fe0fe7"
+      ]
+    },
+    "d8tt4ddposuc738p9e4g": {
+      "calibration_snapshot_ids": [
+        "19db82f7a8adfa31202efdaefe7d89e818bd0ef65898787b7032207e1530623d"
+      ],
+      "experiment_files": [
+        "jobs/d8tt4ddposuc738p9e4g/experiments/tfim_probe-10K-8sites/IBM_RAW_TFIM_n130.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8tt4ddposuc738p9e4g/metadata.json",
+      "parent_ids": []
+    },
+    "d8tttalbh0os73eq6ejg": {
+      "calibration_snapshot_ids": [
+        "19db82f7a8adfa31202efdaefe7d89e818bd0ef65898787b7032207e1530623d"
+      ],
+      "experiment_files": [
+        "jobs/d8tttalbh0os73eq6ejg/experiments/tfim_probe-10K-8sites/IBM_TREX_TWIRLING_TFIM_n130.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8tttalbh0os73eq6ejg/metadata.json",
+      "parent_ids": []
+    },
+    "d8tuk9lbh0os73eq79i0": {
+      "calibration_snapshot_ids": [
+        "19db82f7a8adfa31202efdaefe7d89e818bd0ef65898787b7032207e1530623d"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8tuk9lbh0os73eq79i0/metadata.json",
+      "parent_ids": [
+        "fdc2aa2e-a8c8-4681-ac7f-d3d16560b6c2"
+      ]
+    },
+    "d8tuvn5posuc738pbs2g": {
+      "calibration_snapshot_ids": [
+        "dead1acaca2d42001521bf4091a4402fcef487bd158025cfaa721e5020ef888c"
+      ],
+      "experiment_files": [
+        "jobs/d8tuvn5posuc738pbs2g/experiments/tfim_probe-10K-8sites/IBM_RAW_TFIM_n140.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8tuvn5posuc738pbs2g/metadata.json",
+      "parent_ids": []
+    },
+    "d8u0i0lposuc738pdsv0": {
+      "calibration_snapshot_ids": [
+        "fd9c351faf5028ea0585d5e69fc2c34832aa39d9f3fa398f556aad993e984eca"
+      ],
+      "experiment_files": [
+        "jobs/d8u0i0lposuc738pdsv0/experiments/tfim_probe-10K-8sites/IBM_TREX_TWIRLING_TFIM_n140.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8u0i0lposuc738pdsv0/metadata.json",
+      "parent_ids": []
+    },
+    "d8u23utbh0os73eqc6ng": {
+      "calibration_snapshot_ids": [
+        "42169eaf4f53928740645563db8922783a391b6d0b8a99085e62a348e61091d3"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8u23utbh0os73eqc6ng/metadata.json",
+      "parent_ids": [
+        "7cd1ceca-76ec-4a85-b07a-28d7be62b11f"
+      ]
+    },
+    "d8u3t5stqbtc73d17b0g": {
+      "calibration_snapshot_ids": [
+        "42473210ca1f00f21a86e1c4e816e30d051043f828e00c64722c264fd459e1b7"
+      ],
+      "experiment_files": [
+        "jobs/d8u3t5stqbtc73d17b0g/experiments/tfim_probe-10K-8sites/IBM_RAW_TFIM_n150.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8u3t5stqbtc73d17b0g/metadata.json",
+      "parent_ids": []
+    },
+    "d8u56t4tqbtc73d196m0": {
+      "calibration_snapshot_ids": [
+        "42473210ca1f00f21a86e1c4e816e30d051043f828e00c64722c264fd459e1b7"
+      ],
+      "experiment_files": [
+        "jobs/d8u56t4tqbtc73d196m0/experiments/tfim_probe-10K-8sites/IBM_TREX_TWIRLING_TFIM_n150.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8u56t4tqbtc73d196m0/metadata.json",
+      "parent_ids": []
+    },
+    "d8u5inlposuc738pku70": {
+      "calibration_snapshot_ids": [
+        "42473210ca1f00f21a86e1c4e816e30d051043f828e00c64722c264fd459e1b7"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8u5inlposuc738pku70/metadata.json",
+      "parent_ids": [
+        "6bda7873-b35f-474c-a9e2-be3fef82c862"
+      ]
+    },
+    "d8vmvpemvj5c73ei5140": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/d8vmvpemvj5c73ei5140/experiments/tfim_probe-16layers-full-chain/IBM_RAW_TFIM_n25.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8vmvpemvj5c73ei5140/metadata.json",
+      "parent_ids": []
+    },
+    "d8vnrm6mvj5c73ei6jt0": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/d8vnrm6mvj5c73ei6jt0/experiments/tfim_probe-16layers-full-chain/IBM_TREX_TWIRLING_TFIM_n25.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8vnrm6mvj5c73ei6jt0/metadata.json",
+      "parent_ids": []
+    },
+    "d8vov98pknjs73a1e3b0": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8vov98pknjs73a1e3b0/metadata.json",
+      "parent_ids": [
+        "3a92da7c-e583-4ab4-a207-7ef261f91961"
+      ]
+    },
+    "d8vq2qo6c68s73ah66f0": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/d8vq2qo6c68s73ah66f0/experiments/tfim_probe-16layers-full-chain/IBM_RAW_TFIM_n50.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8vq2qo6c68s73ah66f0/metadata.json",
+      "parent_ids": []
+    },
+    "d8vr5ggpknjs73a1h7og": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/d8vr5ggpknjs73a1h7og/experiments/tfim_probe-16layers-full-chain/IBM_TREX_TWIRLING_TFIM_n50.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8vr5ggpknjs73a1h7og/metadata.json",
+      "parent_ids": []
+    },
+    "d8vs95propqc738cuq90": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8vs95propqc738cuq90/metadata.json",
+      "parent_ids": [
+        "98a979a2-53bc-4c47-8dcb-3068c66a7d5f"
+      ]
+    },
+    "d8vtd406c68s73ahb2fg": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/d8vtd406c68s73ahb2fg/experiments/tfim_probe-16layers-full-chain/IBM_RAW_TFIM_n75.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8vtd406c68s73ahb2fg/metadata.json",
+      "parent_ids": []
+    },
+    "d8vtocopknjs73a1l2og": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/d8vtocopknjs73a1l2og/experiments/tfim_probe-16layers-full-chain/IBM_TREX_TWIRLING_TFIM_n75.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8vtocopknjs73a1l2og/metadata.json",
+      "parent_ids": []
+    },
+    "d8vu87propqc738d1nrg": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8vu87propqc738d1nrg/metadata.json",
+      "parent_ids": [
+        "aa62ab44-d7d3-4e61-8408-c76593295f23"
+      ]
+    },
+    "d8vvclopknjs73a1nf4g": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/d8vvclopknjs73a1nf4g/experiments/tfim_probe-16layers-full-chain/IBM_RAW_TFIM_n100.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d8vvclopknjs73a1nf4g/metadata.json",
+      "parent_ids": []
+    },
+    "d900e8propqc738d4t90": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/d900e8propqc738d4t90/experiments/tfim_probe-16layers-full-chain/IBM_TREX_TWIRLING_TFIM_n100.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d900e8propqc738d4t90/metadata.json",
+      "parent_ids": []
+    },
+    "d901ieemvj5c73eil350": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d901ieemvj5c73eil350/metadata.json",
+      "parent_ids": [
+        "29a732de-9d31-4304-86bc-7b5eb67578bf"
+      ]
+    },
+    "d902n1emvj5c73eimnj0": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/d902n1emvj5c73eimnj0/experiments/tfim_probe-16layers-full-chain/IBM_RAW_TFIM_n125.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d902n1emvj5c73eimnj0/metadata.json",
+      "parent_ids": []
+    },
+    "d903vd1ropqc738da780": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/d903vd1ropqc738da780/experiments/tfim_probe-16layers-full-chain/IBM_TREX_TWIRLING_TFIM_n125.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d903vd1ropqc738da780/metadata.json",
+      "parent_ids": []
+    },
+    "d905cbgpknjs73a1vuog": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d905cbgpknjs73a1vuog/metadata.json",
+      "parent_ids": [
+        "e3c41fb7-3dd8-4648-ba29-035cd66270ec"
+      ]
+    },
+    "d91h10j57qjs73b6bfng": {
+      "calibration_snapshot_ids": [
+        "f15eeb94a2da46e4061ad69b07ba045cc57a285ba12f8cff020c1926dde08592"
+      ],
+      "experiment_files": [
+        "jobs/d91h10j57qjs73b6bfng/experiments/tfim_probe/IBM_RAW_TFIM_n25.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d91h10j57qjs73b6bfng/metadata.json",
+      "parent_ids": []
+    },
+    "d91i5fnccmks73d56rbg": {
+      "calibration_snapshot_ids": [
+        "f15eeb94a2da46e4061ad69b07ba045cc57a285ba12f8cff020c1926dde08592"
+      ],
+      "experiment_files": [
+        "jobs/d91i5fnccmks73d56rbg/experiments/tfim_probe/IBM_TREX_TWIRLING_TFIM_n25.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d91i5fnccmks73d56rbg/metadata.json",
+      "parent_ids": []
+    },
+    "d91i6oeu9n7c73amp600": {
+      "calibration_snapshot_ids": [
+        "f15eeb94a2da46e4061ad69b07ba045cc57a285ba12f8cff020c1926dde08592"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d91i6oeu9n7c73amp600/metadata.json",
+      "parent_ids": [
+        "2fd27b98-4cda-4fdb-b34a-392b568b25d9"
+      ]
+    },
+    "d91irt7qq29s738np1i0": {
+      "calibration_snapshot_ids": [
+        "f15eeb94a2da46e4061ad69b07ba045cc57a285ba12f8cff020c1926dde08592"
+      ],
+      "experiment_files": [
+        "jobs/d91irt7qq29s738np1i0/experiments/tfim_probe/IBM_RAW_TFIM_n50.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d91irt7qq29s738np1i0/metadata.json",
+      "parent_ids": []
+    },
+    "d91issr57qjs73b6et40": {
+      "calibration_snapshot_ids": [
+        "3958247e824bbfdeebc6bea829fe31330873edf824c0a3c32c05f49fb31d1f08"
+      ],
+      "experiment_files": [
+        "jobs/d91issr57qjs73b6et40/experiments/tfim_probe/IBM_TREX_TWIRLING_TFIM_n50.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d91issr57qjs73b6et40/metadata.json",
+      "parent_ids": []
+    },
+    "d91k14357qjs73b6h8ng": {
+      "calibration_snapshot_ids": [
+        "6aebe87f861ce2247e3ad511ea8ecfcdafa39ce351dd280f6203cfc45b346c6e"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d91k14357qjs73b6h8ng/metadata.json",
+      "parent_ids": [
+        "16ea48d1-d9d6-403d-b399-adccc7d42997"
+      ]
+    },
+    "d9213luu9n7c73aniku0": {
+      "calibration_snapshot_ids": [
+        "e513cd4fd6b1393bf8f775b825c3827026ec28b76a7614d0a7d2fb384d6de05b"
+      ],
+      "experiment_files": [
+        "jobs/d9213luu9n7c73aniku0/experiments/tfim_probe/IBM_RAW_TFIM_n75.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9213luu9n7c73aniku0/metadata.json",
+      "parent_ids": []
+    },
+    "d921d3vqq29s738ohgqg": {
+      "calibration_snapshot_ids": [
+        "f79464de1d8050f273bbad1004e8568779461f956e31bdab564a384c7ab7b65e"
+      ],
+      "experiment_files": [
+        "jobs/d921d3vqq29s738ohgqg/experiments/tfim_probe/IBM_TREX_TWIRLING_TFIM_n75.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d921d3vqq29s738ohgqg/metadata.json",
+      "parent_ids": []
+    },
+    "d92auenqq29s738p0mdg": {
+      "calibration_snapshot_ids": [
+        "f79464de1d8050f273bbad1004e8568779461f956e31bdab564a384c7ab7b65e"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d92auenqq29s738p0mdg/metadata.json",
+      "parent_ids": [
+        "2414fb86-2f60-4d78-bfbb-a36c78d26914"
+      ]
+    },
+    "d96qk44qp3as739qu2mg": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d96qk44qp3as739qu2mg/experiments/sampler_benchmark/IBM_RAW_SAMPLER_n20.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d96qk44qp3as739qu2mg/metadata.json",
+      "parent_ids": []
+    },
+    "d96ql9if47jc73a5tqtg": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d96ql9if47jc73a5tqtg/experiments/sampler_benchmark/IBM_MEASUREMENT_TWIRLING_SAMPLER_n20.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d96ql9if47jc73a5tqtg/metadata.json",
+      "parent_ids": []
+    },
+    "d96r6u4qp3as739qukng": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d96r6u4qp3as739qukng/experiments/sampler_benchmark/IBM_RAW_SAMPLER_n25.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d96r6u4qp3as739qukng/metadata.json",
+      "parent_ids": []
+    },
+    "d96rhjgtcv6s73dk4if0": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d96rhjgtcv6s73dk4if0/experiments/sampler_benchmark/IBM_MEASUREMENT_TWIRLING_SAMPLER_n25.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d96rhjgtcv6s73dk4if0/metadata.json",
+      "parent_ids": []
+    },
+    "d96rsj4qp3as739qvabg": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d96rsj4qp3as739qvabg/experiments/sampler_benchmark/IBM_RAW_SAMPLER_n30.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d96rsj4qp3as739qvabg/metadata.json",
+      "parent_ids": []
+    },
+    "d96rta4qp3as739qvb6g": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d96rta4qp3as739qvb6g/experiments/sampler_benchmark/IBM_MEASUREMENT_TWIRLING_SAMPLER_n30.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d96rta4qp3as739qvb6g/metadata.json",
+      "parent_ids": []
+    },
+    "d96stogtcv6s73dk60h0": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d96stogtcv6s73dk60h0/experiments/sampler_benchmark/IBM_RAW_SAMPLER_n50.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d96stogtcv6s73dk60h0/metadata.json",
+      "parent_ids": []
+    },
+    "d96thj8tcv6s73dk6o7g": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d96thj8tcv6s73dk6o7g/experiments/sampler_benchmark/IBM_MEASUREMENT_TWIRLING_SAMPLER_n50.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d96thj8tcv6s73dk6o7g/metadata.json",
+      "parent_ids": []
+    },
+    "d96tkft2su3c739hcac0": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d96tkft2su3c739hcac0/experiments/sampler_benchmark/IBM_RAW_SAMPLER_n75.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d96tkft2su3c739hcac0/metadata.json",
+      "parent_ids": []
+    },
+    "d96uof0tcv6s73dk88hg": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d96uof0tcv6s73dk88hg/experiments/sampler_benchmark/IBM_MEASUREMENT_TWIRLING_SAMPLER_n75.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d96uof0tcv6s73dk88hg/metadata.json",
+      "parent_ids": []
+    },
+    "d96v222f47jc73a62o8g": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d96v222f47jc73a62o8g/experiments/sampler_benchmark/IBM_RAW_SAMPLER_n100.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d96v222f47jc73a62o8g/metadata.json",
+      "parent_ids": []
+    },
+    "d96vk7sqp3as739r3t1g": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/d96vk7sqp3as739r3t1g/experiments/sampler_benchmark/IBM_MEASUREMENT_TWIRLING_SAMPLER_n100.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d96vk7sqp3as739r3t1g/metadata.json",
+      "parent_ids": []
+    },
+    "d978e4kqp3as739rf8pg": {
+      "calibration_snapshot_ids": [
+        "53956d65a1680c89a4b53a9333db0154b01ae714a207686eba537a18214a99c1"
+      ],
+      "experiment_files": [
+        "jobs/d978e4kqp3as739rf8pg/experiments/sampler_benchmark/IBM_RAW_SAMPLER_n5.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d978e4kqp3as739rf8pg/metadata.json",
+      "parent_ids": []
+    },
+    "d979bokqp3as739rg9fg": {
+      "calibration_snapshot_ids": [
+        "fc422326bebd1a6545c5ccfcba8bf31447276a69f0a20a53b6fcefef11658893"
+      ],
+      "experiment_files": [
+        "jobs/d979bokqp3as739rg9fg/experiments/sampler_benchmark/IBM_MEASUREMENT_TWIRLING_SAMPLER_n5.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d979bokqp3as739rg9fg/metadata.json",
+      "parent_ids": []
+    },
+    "d97a8gif47jc73a6grig": {
+      "calibration_snapshot_ids": [
+        "935f4ea301723ac6771b15a87355be5afb5272c708647a4b54fa30adea52ed75"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d97a8gif47jc73a6grig/metadata.json",
+      "parent_ids": [
+        "b9357e1e-e7dc-4f0d-97c9-b05adf10e708"
+      ]
+    },
+    "d97bctif47jc73a6i6h0": {
+      "calibration_snapshot_ids": [
+        "e2350203a30715b32981132684c360e7cf90981878915edf9441025fe4fabdc6"
+      ],
+      "experiment_files": [
+        "jobs/d97bctif47jc73a6i6h0/experiments/sampler_benchmark/IBM_RAW_SAMPLER_n10.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d97bctif47jc73a6i6h0/metadata.json",
+      "parent_ids": []
+    },
+    "d97cvqd2su3c739hvcf0": {
+      "calibration_snapshot_ids": [
+        "fa851462c5d6030d371930e40d14f873c43282f18506989a261b7ee0cd5d004f"
+      ],
+      "experiment_files": [
+        "jobs/d97cvqd2su3c739hvcf0/experiments/sampler_benchmark/IBM_MEASUREMENT_TWIRLING_SAMPLER_n10.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d97cvqd2su3c739hvcf0/metadata.json",
+      "parent_ids": []
+    },
+    "d97dkd8tcv6s73dkr45g": {
+      "calibration_snapshot_ids": [
+        "eba25440081e639419ec87915f47bd65142bae44c7539652230c674b4031cc38"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d97dkd8tcv6s73dkr45g/metadata.json",
+      "parent_ids": [
+        "f0d2caaa-0d95-4472-9d7f-68267d777720"
+      ]
+    },
+    "d97eh3if47jc73a6lhcg": {
+      "calibration_snapshot_ids": [
+        "56d7a0ff3845a2060dc889fd43911d87d7d9a9ca40cd59e38cb85b5435fcaf4c"
+      ],
+      "experiment_files": [
+        "jobs/d97eh3if47jc73a6lhcg/experiments/sampler_benchmark/IBM_RAW_SAMPLER_n15.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d97eh3if47jc73a6lhcg/metadata.json",
+      "parent_ids": []
+    },
+    "d97f5iaf47jc73a6m8a0": {
+      "calibration_snapshot_ids": [
+        "56d7a0ff3845a2060dc889fd43911d87d7d9a9ca40cd59e38cb85b5435fcaf4c"
+      ],
+      "experiment_files": [
+        "jobs/d97f5iaf47jc73a6m8a0/experiments/sampler_benchmark/IBM_MEASUREMENT_TWIRLING_SAMPLER_n15.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d97f5iaf47jc73a6m8a0/metadata.json",
+      "parent_ids": []
+    },
+    "d980o1l2su3c739imah0": {
+      "calibration_snapshot_ids": [
+        "101a0a78908fc3bcc97bfea86cfe39af44eed5e14ec1cc4d7fb353fc5c92e239"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d980o1l2su3c739imah0/metadata.json",
+      "parent_ids": [
+        "2fa397f9-140d-4d70-a69c-f71cd0cb7983"
+      ]
+    },
+    "d980o72f47jc73a7amvg": {
+      "calibration_snapshot_ids": [
+        "101a0a78908fc3bcc97bfea86cfe39af44eed5e14ec1cc4d7fb353fc5c92e239"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d980o72f47jc73a7amvg/metadata.json",
+      "parent_ids": [
+        "c656f3ae-368d-49c1-b2cb-d240e15d9cd3"
+      ]
+    },
+    "d983070tcv6s73dljlsg": {
+      "calibration_snapshot_ids": [
+        "101a0a78908fc3bcc97bfea86cfe39af44eed5e14ec1cc4d7fb353fc5c92e239"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d983070tcv6s73dljlsg/metadata.json",
+      "parent_ids": [
+        "60ac4581-8b74-4078-a6b9-1708efd15b40"
+      ]
+    },
+    "d98ibh0tcv6s73dm6330": {
+      "calibration_snapshot_ids": [
+        "88ab6aa6fd8289d8f2b795ef907daa202dbdfda60aa3a43ca6613f8575942479"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d98ibh0tcv6s73dm6330/metadata.json",
+      "parent_ids": [
+        "4b3e4ab5-0f54-4522-a303-2e51f8af178e"
+      ]
+    },
+    "d98jnfif47jc73a80u2g": {
+      "calibration_snapshot_ids": [
+        "d32557497c0ac73cf60a9daf2f3f9d70148c49202dbc973c01d84bf0d8a1d827"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d98jnfif47jc73a80u2g/metadata.json",
+      "parent_ids": [
+        "26c2dee4-b8ba-4be9-933b-b74c43d772de"
+      ]
+    },
+    "d98k2n4qp3as739t2gbg": {
+      "calibration_snapshot_ids": [
+        "d32557497c0ac73cf60a9daf2f3f9d70148c49202dbc973c01d84bf0d8a1d827"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d98k2n4qp3as739t2gbg/metadata.json",
+      "parent_ids": [
+        "7472b14f-7ccf-40a3-9aa6-560f2e9be570"
+      ]
+    },
+    "d98kfaaf47jc73a81sd0": {
+      "calibration_snapshot_ids": [
+        "d32557497c0ac73cf60a9daf2f3f9d70148c49202dbc973c01d84bf0d8a1d827"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d98kfaaf47jc73a81sd0/metadata.json",
+      "parent_ids": [
+        "6e5c0afc-7d48-4e77-9ab1-537cb790e9fd"
+      ]
+    },
+    "d9a030d2su3c739l0as0": {
+      "calibration_snapshot_ids": [
+        "41e99d03ad31cf85966e35d13d582d3585d23f77e8d2d91efed0bba8c9ae81c8"
+      ],
+      "experiment_files": [
+        "jobs/d9a030d2su3c739l0as0/experiments/sampler_benchmark-QCTRL-RND/IBM_RAW_SAMPLER_n25.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9a030d2su3c739l0as0/metadata.json",
+      "parent_ids": []
+    },
+    "d9a030l2su3c739l0asg": {
+      "calibration_snapshot_ids": [
+        "41e99d03ad31cf85966e35d13d582d3585d23f77e8d2d91efed0bba8c9ae81c8"
+      ],
+      "experiment_files": [
+        "jobs/d9a030l2su3c739l0asg/experiments/sampler_benchmark-QCTRL-RND/IBM_MEASUREMENT_TWIRLING_SAMPLER_n25.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9a030l2su3c739l0asg/metadata.json",
+      "parent_ids": []
+    },
+    "d9a032l2su3c739l0b00": {
+      "calibration_snapshot_ids": [
+        "41e99d03ad31cf85966e35d13d582d3585d23f77e8d2d91efed0bba8c9ae81c8"
+      ],
+      "experiment_files": [
+        "jobs/d9a032l2su3c739l0b00/experiments/sampler_benchmark-QCTRL-RND/IBM_RAW_SAMPLER_n50.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9a032l2su3c739l0b00/metadata.json",
+      "parent_ids": []
+    },
+    "d9a032otcv6s73dnru8g": {
+      "calibration_snapshot_ids": [
+        "41e99d03ad31cf85966e35d13d582d3585d23f77e8d2d91efed0bba8c9ae81c8"
+      ],
+      "experiment_files": [
+        "jobs/d9a032otcv6s73dnru8g/experiments/sampler_benchmark-QCTRL-RND/IBM_MEASUREMENT_TWIRLING_SAMPLER_n50.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9a032otcv6s73dnru8g/metadata.json",
+      "parent_ids": []
+    },
+    "d9a0348tcv6s73dnrua0": {
+      "calibration_snapshot_ids": [
+        "41e99d03ad31cf85966e35d13d582d3585d23f77e8d2d91efed0bba8c9ae81c8"
+      ],
+      "experiment_files": [
+        "jobs/d9a0348tcv6s73dnrua0/experiments/sampler_benchmark-QCTRL-RND/IBM_RAW_SAMPLER_n75.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9a0348tcv6s73dnrua0/metadata.json",
+      "parent_ids": []
+    },
+    "d9a034d2su3c739l0b20": {
+      "calibration_snapshot_ids": [
+        "41e99d03ad31cf85966e35d13d582d3585d23f77e8d2d91efed0bba8c9ae81c8"
+      ],
+      "experiment_files": [
+        "jobs/d9a034d2su3c739l0b20/experiments/sampler_benchmark-QCTRL-RND/IBM_MEASUREMENT_TWIRLING_SAMPLER_n75.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9a034d2su3c739l0b20/metadata.json",
+      "parent_ids": []
+    },
+    "d9a036cqp3as739ulvd0": {
+      "calibration_snapshot_ids": [
+        "41e99d03ad31cf85966e35d13d582d3585d23f77e8d2d91efed0bba8c9ae81c8"
+      ],
+      "experiment_files": [
+        "jobs/d9a036cqp3as739ulvd0/experiments/sampler_benchmark-QCTRL-RND/IBM_RAW_SAMPLER_n100.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9a036cqp3as739ulvd0/metadata.json",
+      "parent_ids": []
+    },
+    "d9a036gtcv6s73dnrudg": {
+      "calibration_snapshot_ids": [
+        "41e99d03ad31cf85966e35d13d582d3585d23f77e8d2d91efed0bba8c9ae81c8"
+      ],
+      "experiment_files": [
+        "jobs/d9a036gtcv6s73dnrudg/experiments/sampler_benchmark-QCTRL-RND/IBM_MEASUREMENT_TWIRLING_SAMPLER_n100.json"
+      ],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9a036gtcv6s73dnrudg/metadata.json",
+      "parent_ids": []
+    },
+    "d9a981kqp3as739v0qc0": {
+      "calibration_snapshot_ids": [
+        "6a34de6b1cb3b3f099d55d442f687c9c4d6ff0ec4b0915683b986312ca3e82cb"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9a981kqp3as739v0qc0/metadata.json",
+      "parent_ids": [
+        "d5c8dff5-4fc2-4619-a484-b2230b152882"
+      ]
+    },
+    "d9a9df52su3c739lb8jg": {
+      "calibration_snapshot_ids": [
+        "6a34de6b1cb3b3f099d55d442f687c9c4d6ff0ec4b0915683b986312ca3e82cb"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9a9df52su3c739lb8jg/metadata.json",
+      "parent_ids": [
+        "9a455734-b445-4984-bf1d-38788a2ed205"
+      ]
+    },
+    "d9aafp4qp3as739v27b0": {
+      "calibration_snapshot_ids": [
+        "76832055f59d8c381d115b34955f62f2dcfb51324247d858086031c096b9bf0d"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9aafp4qp3as739v27b0/metadata.json",
+      "parent_ids": [
+        "08cce1b7-1caa-4c35-9fa6-a798bd361d08"
+      ]
+    },
+    "d9aag6otcv6s73do80p0": {
+      "calibration_snapshot_ids": [
+        "8f7b2440dd4ef335928027da04eb9ec959a7d60195010740bd220d74af91532f"
+      ],
+      "experiment_files": [],
+      "kind": "runtime",
+      "metadata_file": "jobs/d9aag6otcv6s73do80p0/metadata.json",
+      "parent_ids": [
+        "f64d97a4-2a5e-41f5-8507-4a0f082b1430"
+      ]
+    },
+    "db75adbd-1537-4e7b-8d57-1e6839d2c08f": {
+      "calibration_snapshot_ids": [
+        "e2a743f9485cfc550eb6fb400be8fa6c8c034fddefe074bcc30342758cc1ccc6"
+      ],
+      "experiment_files": [
+        "jobs/db75adbd-1537-4e7b-8d57-1e6839d2c08f/experiments/ghz_parity/QCTRL_GHZ_n60.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/db75adbd-1537-4e7b-8d57-1e6839d2c08f/metadata.json",
+      "parent_ids": []
+    },
+    "df40092a-7e1c-41ab-9a52-db53914c9c70": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/df40092a-7e1c-41ab-9a52-db53914c9c70/experiments/ghz_parity/QESEM_GHZ_n20.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/df40092a-7e1c-41ab-9a52-db53914c9c70/metadata.json",
+      "parent_ids": []
+    },
+    "e3c41fb7-3dd8-4648-ba29-035cd66270ec": {
+      "calibration_snapshot_ids": [
+        "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16"
+      ],
+      "experiment_files": [
+        "jobs/e3c41fb7-3dd8-4648-ba29-035cd66270ec/experiments/tfim_probe-16layers-full-chain/QCTRL_TFIM_n125.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/e3c41fb7-3dd8-4648-ba29-035cd66270ec/metadata.json",
+      "parent_ids": []
+    },
+    "e58d4f4a-0560-4438-ad2c-407532b445fa": {
+      "calibration_snapshot_ids": [
+        "bb2afab02cbceba6b1b82df45f22011ac753c5056e21ccac01f8cfd74dfadebb"
+      ],
+      "experiment_files": [
+        "jobs/e58d4f4a-0560-4438-ad2c-407532b445fa/experiments/ghz_parity/QCTRL_GHZ_n20.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/e58d4f4a-0560-4438-ad2c-407532b445fa/metadata.json",
+      "parent_ids": []
+    },
+    "e6890fb9-566d-4f4e-be9b-ea9a6a5f9e86": {
+      "calibration_snapshot_ids": [
+        "84fe10067095bc666a95aae93d219d4e5320485ebcf56430c0d8c015b5c0850f"
+      ],
+      "experiment_files": [
+        "jobs/e6890fb9-566d-4f4e-be9b-ea9a6a5f9e86/experiments/tfim_probe-10K-8sites/QCTRL_TFIM_n60.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/e6890fb9-566d-4f4e-be9b-ea9a6a5f9e86/metadata.json",
+      "parent_ids": []
+    },
+    "e78d8b74-4a29-40e7-ad19-d2a4993e6464": {
+      "calibration_snapshot_ids": [
+        "7f3308e5c0f9d6369a8d2e23716b454dde8ec0da5cee6d3dda76ca7962783030"
+      ],
+      "experiment_files": [
+        "jobs/e78d8b74-4a29-40e7-ad19-d2a4993e6464/experiments/tfim_probe-10K-8sites/QCTRL_TFIM_n100.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/e78d8b74-4a29-40e7-ad19-d2a4993e6464/metadata.json",
+      "parent_ids": []
+    },
+    "e8b36bbc-426c-45db-913f-3e6b9c23b3c6": {
+      "calibration_snapshot_ids": [],
+      "experiment_files": [
+        "jobs/e8b36bbc-426c-45db-913f-3e6b9c23b3c6/experiments/tfim_probe-16layers-full-chain/QESEM_TFIM_n25.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/e8b36bbc-426c-45db-913f-3e6b9c23b3c6/metadata.json",
+      "parent_ids": []
+    },
+    "f0d2caaa-0d95-4472-9d7f-68267d777720": {
+      "calibration_snapshot_ids": [
+        "eba25440081e639419ec87915f47bd65142bae44c7539652230c674b4031cc38"
+      ],
+      "experiment_files": [
+        "jobs/f0d2caaa-0d95-4472-9d7f-68267d777720/experiments/sampler_benchmark/Q_CTRL_SAMPLER_n10.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/f0d2caaa-0d95-4472-9d7f-68267d777720/metadata.json",
+      "parent_ids": []
+    },
+    "f64d97a4-2a5e-41f5-8507-4a0f082b1430": {
+      "calibration_snapshot_ids": [
+        "8f7b2440dd4ef335928027da04eb9ec959a7d60195010740bd220d74af91532f"
+      ],
+      "experiment_files": [
+        "jobs/f64d97a4-2a5e-41f5-8507-4a0f082b1430/experiments/sampler_benchmark-QCTRL-RND/Q_CTRL_SAMPLER_n100.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/f64d97a4-2a5e-41f5-8507-4a0f082b1430/metadata.json",
+      "parent_ids": []
+    },
+    "fdc2aa2e-a8c8-4681-ac7f-d3d16560b6c2": {
+      "calibration_snapshot_ids": [
+        "19db82f7a8adfa31202efdaefe7d89e818bd0ef65898787b7032207e1530623d"
+      ],
+      "experiment_files": [
+        "jobs/fdc2aa2e-a8c8-4681-ac7f-d3d16560b6c2/experiments/tfim_probe-10K-8sites/QCTRL_TFIM_n130.json"
+      ],
+      "kind": "function",
+      "metadata_file": "jobs/fdc2aa2e-a8c8-4681-ac7f-d3d16560b6c2/metadata.json",
+      "parent_ids": []
+    }
+  },
+  "source_file": "ibm_enriched_job_metadata.json",
+  "source_sha256": "0f2d5eb87ee743c0142a6e896d84876b7580017688f10089b1b5a041cddf9dba",
+  "split_schema_version": 1
+}

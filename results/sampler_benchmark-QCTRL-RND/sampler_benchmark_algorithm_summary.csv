@@ -1,0 +1,13 @@
+provider,algorithm,n,job_id,qpu_seconds,qpu_time_source,score_mode,expected_count,success_probability,top_probability,correct_is_top,valid_count,zero_count,one_count,isa_depth,isa_size,isa_cz_count
+IBM measurement twirling,RND,25,d9a030l2su3c739l0asg,10.322270518,usage_estimation.quantum_seconds,exact,20187.0,0.616058349609375,0.616058349609375,1.0,20187.0,0.0,0.0,26.0,375.0,96.0
+IBM measurement twirling,RND,50,d9a032otcv6s73dnru8g,10.322270518,usage_estimation.quantum_seconds,exact,9599.0,0.292938232421875,0.292938232421875,1.0,9599.0,0.0,0.0,26.0,763.0,196.0
+IBM measurement twirling,RND,75,d9a034d2su3c739l0b20,10.322270518,usage_estimation.quantum_seconds,exact,5303.0,0.161834716796875,0.161834716796875,1.0,5303.0,0.0,0.0,26.0,1154.0,296.0
+IBM measurement twirling,RND,100,d9a036gtcv6s73dnrudg,10.322270518,usage_estimation.quantum_seconds,exact,2708.0,0.0826416015625,0.0826416015625,1.0,2708.0,0.0,0.0,26.0,1538.0,396.0
+IBM raw,RND,25,d9a030d2su3c739l0as0,10.328002266,usage_estimation.quantum_seconds,exact,20814.0,0.63519287109375,0.63519287109375,1.0,20814.0,0.0,0.0,26.0,375.0,96.0
+IBM raw,RND,50,d9a032l2su3c739l0b00,10.328002266,usage_estimation.quantum_seconds,exact,9830.0,0.29998779296875,0.29998779296875,1.0,9830.0,0.0,0.0,26.0,763.0,196.0
+IBM raw,RND,75,d9a0348tcv6s73dnrua0,10.328002266,usage_estimation.quantum_seconds,exact,5886.0,0.17962646484375,0.17962646484375,1.0,5886.0,0.0,0.0,26.0,1154.0,296.0
+IBM raw,RND,100,d9a036cqp3as739ulvd0,10.328002266,usage_estimation.quantum_seconds,exact,2994.0,0.09136962890625,0.09136962890625,1.0,2994.0,0.0,0.0,26.0,1538.0,396.0
+Q-CTRL,RND,25,d5c8dff5-4fc2-4619-a484-b2230b152882,,unavailable,exact,30630.0,0.93475341796875,0.93475341796875,1.0,30630.0,0.0,0.0,26.0,375.0,96.0
+Q-CTRL,RND,50,9a455734-b445-4984-bf1d-38788a2ed205,,unavailable,exact,28787.0,0.878509521484375,0.878509521484375,1.0,28787.0,0.0,0.0,26.0,763.0,196.0
+Q-CTRL,RND,75,08cce1b7-1caa-4c35-9fa6-a798bd361d08,,unavailable,exact,27566.0,0.84124755859375,0.84124755859375,1.0,27566.0,0.0,0.0,26.0,1154.0,296.0
+Q-CTRL,RND,100,f64d97a4-2a5e-41f5-8507-4a0f082b1430,,unavailable,exact,25052.0,0.7645263671875,0.7645263671875,1.0,25052.0,0.0,0.0,26.0,1538.0,396.0

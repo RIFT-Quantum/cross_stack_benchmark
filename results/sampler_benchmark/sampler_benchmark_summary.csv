@@ -1,0 +1,15 @@
+provider,n,job_id,qpu_seconds,qpu_time_source,workload_count,algorithms,mean_expected_count,mean_success_probability,min_success_probability,mean_top_probability,fraction_correct_is_top,mean_isa_depth,max_isa_depth,mean_isa_cz_count,max_isa_cz_count
+IBM measurement twirling,10,d96qhht2su3c739h92pg,19.832526681,usage_estimation.quantum_seconds,2,"QPE, RND",23569.0,0.719268798828125,0.599151611328125,0.719268798828125,1.0,168.5,312,102.5,169
+IBM measurement twirling,20,d96ql9if47jc73a5tqtg,28.293896183,usage_estimation.quantum_seconds,2,"QPE, RND",10866.5,0.3316192626953125,9.1552734375e-05,0.3322296142578125,0.5,517.0,1009,454.5,833
+IBM measurement twirling,25,d96rhjgtcv6s73dk4if0,19.308443067,usage_estimation.quantum_seconds,2,"BV, GHZ",19761.5,0.6030731201171875,0.554656982421875,0.45635986328125,1.0,97.0,118,38.5,53
+IBM measurement twirling,30,d96rta4qp3as739qvb6g,28.575456601,usage_estimation.quantum_seconds,2,"QPE, RND",9058.0,0.27642822265625,0.0,0.2764739990234375,0.5,753.5,1482,1022.0,1928
+IBM measurement twirling,50,d96thj8tcv6s73dk6o7g,19.97782635,usage_estimation.quantum_seconds,2,"BV, GHZ",7137.0,0.217803955078125,0.085601806640625,0.2335205078125,0.5,154.5,158,59.5,70
+IBM measurement twirling,75,d96uof0tcv6s73dk88hg,22.800633924,usage_estimation.quantum_seconds,2,"BV, GHZ",3501.0,0.106842041015625,0.028289794921875,0.09967041015625,1.0,256.0,286,103.5,133
+IBM measurement twirling,100,d96vk7sqp3as739r3t1g,11.321284531,usage_estimation.quantum_seconds,1,GHZ,3851.0,0.117523193359375,0.117523193359375,0.116668701171875,1.0,301.0,301,99.0,99
+IBM raw,10,d96q6b52su3c739h8o6g,23.870983295,usage_estimation.quantum_seconds,2,"QPE, RND",23425.0,0.714874267578125,0.563385009765625,0.714874267578125,1.0,168.5,312,102.5,169
+IBM raw,20,d96qk44qp3as739qu2mg,35.586838298,usage_estimation.quantum_seconds,2,"QPE, RND",10681.5,0.3259735107421875,0.0003662109375,0.32720947265625,0.5,517.0,1009,454.5,833
+IBM raw,25,d96r6u4qp3as739qukng,23.289643119,usage_estimation.quantum_seconds,2,"BV, GHZ",19595.5,0.5980072021484375,0.536895751953125,0.4561004638671875,1.0,97.0,118,38.5,53
+IBM raw,30,d96rsj4qp3as739qvabg,35.969312819,usage_estimation.quantum_seconds,2,"QPE, RND",10158.0,0.30999755859375,0.0,0.31005859375,0.5,753.5,1482,1022.0,1928
+IBM raw,50,d96stogtcv6s73dk60h0,24.022774837,usage_estimation.quantum_seconds,2,"BV, GHZ",7979.0,0.243499755859375,0.09912109375,0.2579193115234375,0.5,154.5,158,59.5,70
+IBM raw,75,d96tkft2su3c739hcac0,27.206816615,usage_estimation.quantum_seconds,2,"BV, GHZ",4499.5,0.1373138427734375,0.03277587890625,0.1307830810546875,1.0,256.0,286,103.5,133
+IBM raw,100,d96v222f47jc73a62o8g,11.5074556,usage_estimation.quantum_seconds,1,GHZ,5347.0,0.163177490234375,0.163177490234375,0.162139892578125,1.0,301.0,301,99.0,99

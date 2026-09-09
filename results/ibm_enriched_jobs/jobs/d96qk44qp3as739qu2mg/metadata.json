@@ -1,0 +1,9 @@
+{
+  "backend_calibration": {
+    "reason": "Job lookup failed.",
+    "status": "unavailable"
+  },
+  "job_id": "d96qk44qp3as739qu2mg",
+  "retrieval_error": "RuntimeJobNotFound: 'Job not found: d96qk44qp3as739qu2mg'",
+  "retrieval_status": "failed"
+}

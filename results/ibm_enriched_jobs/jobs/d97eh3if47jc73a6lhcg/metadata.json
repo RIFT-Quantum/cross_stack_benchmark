@@ -1,0 +1,108 @@
+{
+  "backend_calibration": {
+    "error": null,
+    "lookup_time_source": "execution_start",
+    "lookup_time_utc": "2026-07-09T01:00:34.232404+00:00",
+    "snapshot_id": "56d7a0ff3845a2060dc889fd43911d87d7d9a9ca40cd59e38cb85b5435fcaf4c",
+    "snapshot_last_update_utc": "2026-07-09T00:48:39+00:00",
+    "status": "retrieved"
+  },
+  "backend_name": "ibm_pittsburgh",
+  "creation_date_utc": "2026-07-09T00:17:18.288310+00:00",
+  "field_errors": {},
+  "inputs_without_circuits": {
+    "circuits": [
+      {
+        "errors": {},
+        "pub_index": 0,
+        "summary": {
+          "active_physical_qubits": [
+            16,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            37,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+          ],
+          "circuit_width": 156,
+          "measured_physical_qubits": [
+            16,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            37,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+          ],
+          "operation_counts": {
+            "barrier": 2,
+            "cz": 491,
+            "measure": 15,
+            "rz": 545,
+            "sx": 1022,
+            "x": 8
+          },
+          "qubit_index_basis": "submitted Runtime ISA circuit (physical backend indices)"
+        }
+      }
+    ],
+    "options": {
+      "default_shots": 32768,
+      "dynamical_decoupling": {
+        "enable": false
+      },
+      "twirling": {
+        "enable_gates": false,
+        "enable_measure": false
+      }
+    },
+    "pub_count": 1,
+    "support_qiskit": true,
+    "version": 2
+  },
+  "job_id": "d97eh3if47jc73a6lhcg",
+  "metrics": {
+    "bss": {
+      "seconds": 12
+    },
+    "caller": "qiskit_ibm_runtime~sampler.py",
+    "qiskit_version": "qiskit_ibm_runtime-0.47.0,qiskit-2.2.3*,qiskit_aer-0.17.2",
+    "timestamps": {
+      "created": "2026-07-09T00:17:18.28831Z",
+      "finished": "2026-07-09T01:00:56.485787Z",
+      "running": "2026-07-09T01:00:34.232404Z"
+    },
+    "usage": {
+      "quantum_seconds": 12,
+      "seconds": 12,
+      "status": "complete"
+    }
+  },
+  "primitive_id": "sampler",
+  "retrieval_status": "retrieved",
+  "runtime_image": null,
+  "session_or_batch_id": null,
+  "status": "DONE",
+  "tags": null,
+  "usage_estimation": {
+    "quantum_seconds": 16.259835931
+  }
+}

@@ -1,0 +1,11 @@
+algorithm,n,available_providers
+BV,25,"IBM raw, IBM measurement twirling, Q-CTRL"
+BV,50,"IBM raw, IBM measurement twirling, Q-CTRL"
+BV,75,"IBM raw, IBM measurement twirling, Q-CTRL"
+QPE,10,"IBM raw, IBM measurement twirling, Q-CTRL"
+QPE,20,"IBM raw, IBM measurement twirling, Q-CTRL"
+QPE,30,"IBM raw, IBM measurement twirling, Q-CTRL"
+RND,25,"IBM raw, IBM measurement twirling, Q-CTRL"
+RND,50,"IBM raw, IBM measurement twirling, Q-CTRL"
+RND,75,"IBM raw, IBM measurement twirling, Q-CTRL"
+RND,100,"IBM raw, IBM measurement twirling, Q-CTRL"

@@ -1,0 +1,102 @@
+{
+  "backend_calibration": {
+    "error": null,
+    "lookup_time_source": "execution_start",
+    "lookup_time_utc": "2026-06-30T01:57:58.070356+00:00",
+    "snapshot_id": "f15eeb94a2da46e4061ad69b07ba045cc57a285ba12f8cff020c1926dde08592",
+    "snapshot_last_update_utc": "2026-06-30T01:35:50+00:00",
+    "status": "retrieved"
+  },
+  "backend_name": "ibm_pittsburgh",
+  "creation_date_utc": "2026-06-30T00:40:34.723212+00:00",
+  "field_errors": {},
+  "inputs_without_circuits": {
+    "circuits": [
+      {
+        "errors": {},
+        "pub_index": 0,
+        "summary": {
+          "active_physical_qubits": [
+            55,
+            59,
+            73,
+            74,
+            75,
+            79,
+            91,
+            92,
+            93,
+            95,
+            98,
+            99,
+            109,
+            110,
+            111,
+            113,
+            114,
+            115,
+            118,
+            119,
+            129,
+            130,
+            131,
+            132,
+            133
+          ],
+          "circuit_width": 156,
+          "measured_physical_qubits": [],
+          "operation_counts": {
+            "cz": 384,
+            "rz": 957,
+            "sx": 880,
+            "x": 118
+          },
+          "qubit_index_basis": "submitted Runtime ISA circuit (physical backend indices)"
+        }
+      }
+    ],
+    "options": {
+      "default_shots": 32768,
+      "resilience": {
+        "measure_mitigation": false,
+        "pec_mitigation": false,
+        "zne_mitigation": false
+      },
+      "twirling": {
+        "enable_gates": false,
+        "enable_measure": false
+      }
+    },
+    "pub_count": 1,
+    "resilience_level": 0,
+    "support_qiskit": true,
+    "version": 2
+  },
+  "job_id": "d91h10j57qjs73b6bfng",
+  "metrics": {
+    "bss": {
+      "seconds": 20
+    },
+    "caller": "qiskit_ibm_runtime~estimator.py",
+    "qiskit_version": "qiskit_ibm_runtime-0.47.0,qiskit-2.2.3*,qiskit_aer-0.17.2*",
+    "timestamps": {
+      "created": "2026-06-30T00:40:34.723212Z",
+      "finished": "2026-06-30T01:58:21.149322Z",
+      "running": "2026-06-30T01:57:58.070356Z"
+    },
+    "usage": {
+      "quantum_seconds": 20,
+      "seconds": 20,
+      "status": "complete"
+    }
+  },
+  "primitive_id": "estimator",
+  "retrieval_status": "retrieved",
+  "runtime_image": null,
+  "session_or_batch_id": null,
+  "status": "DONE",
+  "tags": null,
+  "usage_estimation": {
+    "quantum_seconds": 17.823485916
+  }
+}

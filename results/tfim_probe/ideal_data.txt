@@ -1,0 +1,51 @@
+
+n_samples = [25,50]
+
+tfim_layers = 8
+theta_zz = 0.35
+theta_x = 0.45
+num_probes = 8
+
+
+evaluate_full_chain = True
+
+qesem_precision = 0.1
+qesem_max_execution_time = 600
+
+run_qesem = True
+run_qctrl = True
+run_ibm_raw = True
+run_ibm_trex_twirling = True
+
+================================================================================
+Running fixed-depth TFIM full-chain benchmark with n=25
+================================================================================
+Observable support: 25 sites, 24 bonds (full_chain=True)
+Computing ideal MPS reference...
+Ideal EVs:
+  MZ_full: -0.00000000
+  MX_full: 0.66063421
+  ZZ_full: 0.38867674
+Transpiling circuit for IBM Runtime...
+
+
+================================================================================
+Running fixed-depth TFIM full-chain benchmark with n=50
+================================================================================
+Observable support: 50 sites, 49 bonds (full_chain=True)
+Computing ideal MPS reference...
+Ideal EVs:
+  MZ_full: -0.00000000
+  MX_full: 0.65197805
+  ZZ_full: 0.39098874
+
+================================================================================
+Running fixed-depth TFIM full-chain benchmark with n=75
+================================================================================
+Observable support: 75 sites, 74 bonds (full_chain=True)
+Computing ideal MPS reference...
+Ideal EVs:
+  MZ_full: -0.00000000
+  MX_full: 0.64909267
+  ZZ_full: 0.39173858
+Transpiling circuit for IBM Runtime...

@@ -1,0 +1,152 @@
+{
+  "backend_calibration": {
+    "error": null,
+    "lookup_time_source": "execution_start",
+    "lookup_time_utc": "2026-06-27T14:13:22.727274+00:00",
+    "snapshot_id": "834118360f58c45a5b87b55d29a01054b9df2c341a65bdc4bf40f54a1d7fad16",
+    "snapshot_last_update_utc": "2026-06-27T01:45:20+00:00",
+    "status": "retrieved"
+  },
+  "backend_name": "ibm_pittsburgh",
+  "creation_date_utc": "2026-06-27T13:56:32.841628+00:00",
+  "field_errors": {},
+  "inputs_without_circuits": {
+    "circuits": [
+      {
+        "errors": {},
+        "pub_index": 0,
+        "summary": {
+          "active_physical_qubits": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            19,
+            33,
+            34,
+            35,
+            39,
+            53,
+            54,
+            55,
+            59,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            113,
+            114,
+            115,
+            118,
+            119,
+            129,
+            130,
+            131,
+            132,
+            133
+          ],
+          "circuit_width": 156,
+          "measured_physical_qubits": [],
+          "operation_counts": {
+            "cz": 2368,
+            "rz": 5604,
+            "sx": 5254,
+            "x": 645
+          },
+          "qubit_index_basis": "submitted Runtime ISA circuit (physical backend indices)"
+        }
+      }
+    ],
+    "options": {
+      "default_shots": 32768,
+      "resilience": {
+        "measure_mitigation": false,
+        "pec_mitigation": false,
+        "zne_mitigation": false
+      },
+      "twirling": {
+        "enable_gates": false,
+        "enable_measure": false
+      }
+    },
+    "pub_count": 1,
+    "resilience_level": 0,
+    "support_qiskit": true,
+    "version": 2
+  },
+  "job_id": "d8vtd406c68s73ahb2fg",
+  "metrics": {
+    "bss": {
+      "seconds": 20
+    },
+    "caller": "qiskit_ibm_runtime~estimator.py",
+    "qiskit_version": "qiskit_ibm_runtime-0.47.0,qiskit-2.2.3*,qiskit_aer-0.17.2*",
+    "timestamps": {
+      "created": "2026-06-27T13:56:32.841628Z",
+      "finished": "2026-06-27T14:20:34.054618Z",
+      "running": "2026-06-27T14:13:22.727274Z"
+    },
+    "usage": {
+      "quantum_seconds": 20,
+      "seconds": 20,
+      "status": "complete"
+    }
+  },
+  "primitive_id": "estimator",
+  "retrieval_status": "retrieved",
+  "runtime_image": null,
+  "session_or_batch_id": null,
+  "status": "DONE",
+  "tags": null,
+  "usage_estimation": {
+    "quantum_seconds": 19.196572924
+  }
+}

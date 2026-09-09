@@ -1,0 +1,13 @@
+provider,n,job_id,qpu_seconds,qpu_time_source,workload_count,algorithms,mean_expected_count,mean_success_probability,min_success_probability,mean_top_probability,fraction_correct_is_top,mean_isa_depth,max_isa_depth,mean_isa_cz_count,max_isa_cz_count
+IBM measurement twirling,25,d9a030l2su3c739l0asg,10.32227052,usage_estimation.quantum_seconds,1,RND,20187,0.61605835,0.61605835,0.61605835,1,26,26,96,96
+IBM measurement twirling,50,d9a032otcv6s73dnru8g,10.32227052,usage_estimation.quantum_seconds,1,RND,9599,0.292938232,0.292938232,0.292938232,1,26,26,196,196
+IBM measurement twirling,75,d9a034d2su3c739l0b20,10.32227052,usage_estimation.quantum_seconds,1,RND,5303,0.161834717,0.161834717,0.161834717,1,26,26,296,296
+IBM measurement twirling,100,d9a036gtcv6s73dnrudg,10.32227052,usage_estimation.quantum_seconds,1,RND,2708,0.082641602,0.082641602,0.082641602,1,26,26,396,396
+IBM raw,25,d9a030d2su3c739l0as0,10.32800227,usage_estimation.quantum_seconds,1,RND,20814,0.635192871,0.635192871,0.635192871,1,26,26,96,96
+IBM raw,50,d9a032l2su3c739l0b00,10.32800227,usage_estimation.quantum_seconds,1,RND,9830,0.299987793,0.299987793,0.299987793,1,26,26,196,196
+IBM raw,75,d9a0348tcv6s73dnrua0,10.32800227,usage_estimation.quantum_seconds,1,RND,5886,0.179626465,0.179626465,0.179626465,1,26,26,296,296
+IBM raw,100,d9a036cqp3as739ulvd0,10.32800227,usage_estimation.quantum_seconds,1,RND,2994,0.091369629,0.091369629,0.091369629,1,26,26,396,396
+Q-CTRL,25,d5c8dff5-4fc2-4619-a484-b2230b152882,19,unavailable,1,RND,30630,0.934753418,0.934753418,0.934753418,1,26,26,96,96
+Q-CTRL,50,9a455734-b445-4984-bf1d-38788a2ed205,19,unavailable,1,RND,28787,0.878509521,0.878509521,0.878509521,1,26,26,196,196
+Q-CTRL,75,08cce1b7-1caa-4c35-9fa6-a798bd361d08,19,unavailable,1,RND,27566,0.841247559,0.841247559,0.841247559,1,26,26,296,296
+Q-CTRL,100,f64d97a4-2a5e-41f5-8507-4a0f082b1430,19,unavailable,1,RND,25052,0.764526367,0.764526367,0.764526367,1,26,26,396,396

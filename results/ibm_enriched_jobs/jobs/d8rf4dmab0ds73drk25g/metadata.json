@@ -1,0 +1,124 @@
+{
+  "backend_calibration": {
+    "error": null,
+    "lookup_time_source": "execution_start",
+    "lookup_time_utc": "2026-06-20T20:45:57.007312+00:00",
+    "snapshot_id": "d7f0eb4e85c8ebe01f18789de2766d87c3ff952aa29a9bb2eff6a64ea90a5007",
+    "snapshot_last_update_utc": "2026-06-20T19:16:53+00:00",
+    "status": "retrieved"
+  },
+  "backend_name": "ibm_pittsburgh",
+  "creation_date_utc": "2026-06-20T20:04:06.496598+00:00",
+  "field_errors": {},
+  "inputs_without_circuits": {
+    "circuits": [
+      {
+        "errors": {},
+        "pub_index": 0,
+        "summary": {
+          "active_physical_qubits": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            19,
+            33,
+            34,
+            35,
+            39,
+            53,
+            54,
+            55,
+            59,
+            61,
+            62,
+            63,
+            73,
+            74,
+            75,
+            76,
+            79,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            93,
+            94,
+            95,
+            98,
+            99,
+            109,
+            110,
+            111,
+            113,
+            114,
+            115,
+            118,
+            119,
+            129,
+            130,
+            131,
+            132,
+            133
+          ],
+          "circuit_width": 156,
+          "measured_physical_qubits": [],
+          "operation_counts": {
+            "cz": 59,
+            "rz": 179,
+            "sx": 119
+          },
+          "qubit_index_basis": "submitted Runtime ISA circuit (physical backend indices)"
+        }
+      }
+    ],
+    "options": {},
+    "pub_count": 1,
+    "support_qiskit": true,
+    "version": 2
+  },
+  "job_id": "d8rf4dmab0ds73drk25g",
+  "metrics": {
+    "bss": {
+      "seconds": 13
+    },
+    "caller": "qiskit_ibm_runtime~estimator.py",
+    "qiskit_version": "qiskit_ibm_runtime-0.47.0,qiskit-2.2.3*,qiskit_aer-0.17.2*",
+    "timestamps": {
+      "created": "2026-06-20T20:04:06.496598Z",
+      "finished": "2026-06-20T20:46:33.510997Z",
+      "running": "2026-06-20T20:45:57.007312Z"
+    },
+    "usage": {
+      "quantum_seconds": 13,
+      "seconds": 13,
+      "status": "complete"
+    }
+  },
+  "primitive_id": "estimator",
+  "retrieval_status": "retrieved",
+  "runtime_image": null,
+  "session_or_batch_id": null,
+  "status": "DONE",
+  "tags": null,
+  "usage_estimation": {
+    "quantum_seconds": 13.983925644
+  }
+}

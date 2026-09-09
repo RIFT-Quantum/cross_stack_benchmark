@@ -1,0 +1,260 @@
+{
+    "created_by": "benchmark-FULLCHAIN_-_SAMPLER job-id workflow",
+    "updated_at_utc": "2026-07-13T18:45:56.290004+00:00",
+    "backend_name": "ibm_pittsburgh",
+    "shot_count": 32768,
+    "jobs": [
+        {
+            "submission_key": "IBM_RAW__n25",
+            "provider": "IBM raw",
+            "provider_file_label": "IBM_RAW",
+            "n": 25,
+            "job_id": "d9a030d2su3c739l0as0",
+            "job_family": "runtime",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "RND"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL-RND\\IBM_RAW_SAMPLER_n25.json",
+            "submitted_at_utc": "2026-07-12T21:05:04.443955+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-13T01:50:03.578935+00:00",
+            "collected_at_utc": "2026-07-13T01:50:04.073062+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "IBM_MEASUREMENT_TWIRLING__n25",
+            "provider": "IBM measurement twirling",
+            "provider_file_label": "IBM_MEASUREMENT_TWIRLING",
+            "n": 25,
+            "job_id": "d9a030l2su3c739l0asg",
+            "job_family": "runtime",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "RND"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL-RND\\IBM_MEASUREMENT_TWIRLING_SAMPLER_n25.json",
+            "submitted_at_utc": "2026-07-12T21:05:05.016201+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-13T01:50:04.573243+00:00",
+            "collected_at_utc": "2026-07-13T01:50:05.240942+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "Q_CTRL__n25",
+            "provider": "Q-CTRL",
+            "provider_file_label": "Q_CTRL",
+            "n": 25,
+            "job_id": "d5c8dff5-4fc2-4619-a484-b2230b152882",
+            "job_family": "qiskit_function",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "RND"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL-RND\\Q_CTRL_SAMPLER_n25.json",
+            "submitted_at_utc": "2026-07-12T21:05:13.090274+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-13T18:45:12.017273+00:00",
+            "collected_at_utc": "2026-07-13T18:45:25.007879+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "IBM_RAW__n50",
+            "provider": "IBM raw",
+            "provider_file_label": "IBM_RAW",
+            "n": 50,
+            "job_id": "d9a032l2su3c739l0b00",
+            "job_family": "runtime",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "RND"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL-RND\\IBM_RAW_SAMPLER_n50.json",
+            "submitted_at_utc": "2026-07-12T21:05:13.640325+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-13T01:50:12.212730+00:00",
+            "collected_at_utc": "2026-07-13T01:50:12.675378+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "IBM_MEASUREMENT_TWIRLING__n50",
+            "provider": "IBM measurement twirling",
+            "provider_file_label": "IBM_MEASUREMENT_TWIRLING",
+            "n": 50,
+            "job_id": "d9a032otcv6s73dnru8g",
+            "job_family": "runtime",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "RND"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL-RND\\IBM_MEASUREMENT_TWIRLING_SAMPLER_n50.json",
+            "submitted_at_utc": "2026-07-12T21:05:14.222579+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-13T01:50:12.860448+00:00",
+            "collected_at_utc": "2026-07-13T01:50:13.143232+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "Q_CTRL__n50",
+            "provider": "Q-CTRL",
+            "provider_file_label": "Q_CTRL",
+            "n": 50,
+            "job_id": "9a455734-b445-4984-bf1d-38788a2ed205",
+            "job_family": "qiskit_function",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "RND"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL-RND\\Q_CTRL_SAMPLER_n50.json",
+            "submitted_at_utc": "2026-07-12T21:05:19.457808+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-13T18:45:31.349674+00:00",
+            "collected_at_utc": "2026-07-13T18:45:36.865554+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "IBM_RAW__n75",
+            "provider": "IBM raw",
+            "provider_file_label": "IBM_RAW",
+            "n": 75,
+            "job_id": "d9a0348tcv6s73dnrua0",
+            "job_family": "runtime",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "RND"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL-RND\\IBM_RAW_SAMPLER_n75.json",
+            "submitted_at_utc": "2026-07-12T21:05:20.019749+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-13T01:50:18.554459+00:00",
+            "collected_at_utc": "2026-07-13T01:50:18.878752+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "IBM_MEASUREMENT_TWIRLING__n75",
+            "provider": "IBM measurement twirling",
+            "provider_file_label": "IBM_MEASUREMENT_TWIRLING",
+            "n": 75,
+            "job_id": "d9a034d2su3c739l0b20",
+            "job_family": "runtime",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "RND"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL-RND\\IBM_MEASUREMENT_TWIRLING_SAMPLER_n75.json",
+            "submitted_at_utc": "2026-07-12T21:05:20.666713+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-13T01:50:19.086827+00:00",
+            "collected_at_utc": "2026-07-13T01:50:19.409128+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "Q_CTRL__n75",
+            "provider": "Q-CTRL",
+            "provider_file_label": "Q_CTRL",
+            "n": 75,
+            "job_id": "08cce1b7-1caa-4c35-9fa6-a798bd361d08",
+            "job_family": "qiskit_function",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "RND"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL-RND\\Q_CTRL_SAMPLER_n75.json",
+            "submitted_at_utc": "2026-07-12T21:05:27.877060+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-13T18:45:39.402051+00:00",
+            "collected_at_utc": "2026-07-13T18:45:45.081375+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "IBM_RAW__n100",
+            "provider": "IBM raw",
+            "provider_file_label": "IBM_RAW",
+            "n": 100,
+            "job_id": "d9a036cqp3as739ulvd0",
+            "job_family": "runtime",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "RND"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL-RND\\IBM_RAW_SAMPLER_n100.json",
+            "submitted_at_utc": "2026-07-12T21:05:28.461911+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-13T01:50:24.591446+00:00",
+            "collected_at_utc": "2026-07-13T01:50:24.970870+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "IBM_MEASUREMENT_TWIRLING__n100",
+            "provider": "IBM measurement twirling",
+            "provider_file_label": "IBM_MEASUREMENT_TWIRLING",
+            "n": 100,
+            "job_id": "d9a036gtcv6s73dnrudg",
+            "job_family": "runtime",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "RND"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL-RND\\IBM_MEASUREMENT_TWIRLING_SAMPLER_n100.json",
+            "submitted_at_utc": "2026-07-12T21:05:29.030182+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-13T01:50:25.152446+00:00",
+            "collected_at_utc": "2026-07-13T01:50:25.551344+00:00",
+            "collection_error": null
+        },
+        {
+            "submission_key": "Q_CTRL__n100",
+            "provider": "Q-CTRL",
+            "provider_file_label": "Q_CTRL",
+            "n": 100,
+            "job_id": "f64d97a4-2a5e-41f5-8507-4a0f082b1430",
+            "job_family": "qiskit_function",
+            "backend_name": "ibm_pittsburgh",
+            "shot_count": 32768,
+            "workload_count": 1,
+            "algorithms": [
+                "RND"
+            ],
+            "result_json": "results\\sampler_benchmark-QCTRL-RND\\Q_CTRL_SAMPLER_n100.json",
+            "submitted_at_utc": "2026-07-12T21:05:34.835076+00:00",
+            "status_at_submission": "QUEUED",
+            "last_status": "DONE",
+            "last_checked_at_utc": "2026-07-13T18:45:47.751303+00:00",
+            "collected_at_utc": "2026-07-13T18:45:56.290004+00:00",
+            "collection_error": null
+        }
+    ]
+}

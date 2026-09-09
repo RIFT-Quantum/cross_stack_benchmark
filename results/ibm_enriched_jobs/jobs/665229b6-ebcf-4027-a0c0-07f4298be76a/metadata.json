@@ -1,0 +1,26 @@
+{
+  "child_discovery_status": "unavailable",
+  "field_errors": {},
+  "function_job_id": "665229b6-ebcf-4027-a0c0-07f4298be76a",
+  "function_metadata": {
+    "business_model": "LICENSED",
+    "compute_profile": null,
+    "compute_profile_fk": null,
+    "created": "2026-06-22T07:03:33.347097Z",
+    "fleet_id": null,
+    "id": "665229b6-ebcf-4027-a0c0-07f4298be76a",
+    "program": {
+      "id": "7636f111-b7b8-4a00-b22d-5fcc5c5cb3d0",
+      "provider": "qedma",
+      "title": "qesem"
+    },
+    "status": "SUCCEEDED",
+    "sub_status": null
+  },
+  "retrieval_error": null,
+  "retrieval_status": "partial",
+  "runtime_job_ids": [],
+  "runtime_jobs": [],
+  "runtime_session_ids": [],
+  "status": "DONE"
+}

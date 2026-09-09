@@ -1,0 +1,37 @@
+provider,algorithm,n,qpu_seconds,qpu_time_source
+Q-CTRL,QPE,10,20.0,results/sampler_benchmark-QCTRL/sampler_benchmark_summary.csv
+Q-CTRL,QPE,20,20.0,results/sampler_benchmark-QCTRL/sampler_benchmark_summary.csv
+Q-CTRL,BV,25,28.0,results/sampler_benchmark-QCTRL/sampler_benchmark_summary.csv
+Q-CTRL,GHZ,25,28.0,results/sampler_benchmark-QCTRL/sampler_benchmark_summary.csv
+Q-CTRL,QPE,30,20.0,results/sampler_benchmark-QCTRL/sampler_benchmark_summary.csv
+Q-CTRL,BV,50,28.0,results/sampler_benchmark-QCTRL/sampler_benchmark_summary.csv
+Q-CTRL,GHZ,50,28.0,results/sampler_benchmark-QCTRL/sampler_benchmark_summary.csv
+Q-CTRL,BV,75,29.0,results/sampler_benchmark-QCTRL/sampler_benchmark_summary.csv
+IBM measurement twirling,QPE,10,19.832526681,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM measurement twirling,QPE,20,28.293896183,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM measurement twirling,BV,25,19.308443067,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM measurement twirling,GHZ,25,19.308443067,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM measurement twirling,QPE,30,28.575456601,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM measurement twirling,BV,50,19.97782635,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM measurement twirling,GHZ,50,19.97782635,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM measurement twirling,BV,75,22.800633924,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM raw,QPE,10,23.870983295,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM raw,QPE,20,35.586838298,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM raw,BV,25,23.289643119,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM raw,GHZ,25,23.289643119,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM raw,QPE,30,35.969312819,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM raw,BV,50,24.022774837,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM raw,GHZ,50,24.022774837,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM raw,BV,75,27.206816615,results\sampler_benchmark\sampler_benchmark_summary.csv
+IBM measurement twirling,RND,25,10.32227052,results\sampler_benchmark-QCTRL-RND\sampler_benchmark_summary.csv
+IBM measurement twirling,RND,50,10.32227052,results\sampler_benchmark-QCTRL-RND\sampler_benchmark_summary.csv
+IBM measurement twirling,RND,75,10.32227052,results\sampler_benchmark-QCTRL-RND\sampler_benchmark_summary.csv
+IBM measurement twirling,RND,100,10.32227052,results\sampler_benchmark-QCTRL-RND\sampler_benchmark_summary.csv
+IBM raw,RND,25,10.32800227,results\sampler_benchmark-QCTRL-RND\sampler_benchmark_summary.csv
+IBM raw,RND,50,10.32800227,results\sampler_benchmark-QCTRL-RND\sampler_benchmark_summary.csv
+IBM raw,RND,75,10.32800227,results\sampler_benchmark-QCTRL-RND\sampler_benchmark_summary.csv
+IBM raw,RND,100,10.32800227,results\sampler_benchmark-QCTRL-RND\sampler_benchmark_summary.csv
+Q-CTRL,RND,25,19.0,results\sampler_benchmark-QCTRL-RND\sampler_benchmark_summary.csv
+Q-CTRL,RND,50,19.0,results\sampler_benchmark-QCTRL-RND\sampler_benchmark_summary.csv
+Q-CTRL,RND,75,19.0,results\sampler_benchmark-QCTRL-RND\sampler_benchmark_summary.csv
+Q-CTRL,RND,100,19.0,results\sampler_benchmark-QCTRL-RND\sampler_benchmark_summary.csv

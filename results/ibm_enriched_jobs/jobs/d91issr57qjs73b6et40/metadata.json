@@ -1,0 +1,127 @@
+{
+  "backend_calibration": {
+    "error": null,
+    "lookup_time_source": "execution_start",
+    "lookup_time_utc": "2026-06-30T02:48:20.732595+00:00",
+    "snapshot_id": "3958247e824bbfdeebc6bea829fe31330873edf824c0a3c32c05f49fb31d1f08",
+    "snapshot_last_update_utc": "2026-06-30T02:39:59+00:00",
+    "status": "retrieved"
+  },
+  "backend_name": "ibm_pittsburgh",
+  "creation_date_utc": "2026-06-30T02:48:19.052319+00:00",
+  "field_errors": {},
+  "inputs_without_circuits": {
+    "circuits": [
+      {
+        "errors": {},
+        "pub_index": 0,
+        "summary": {
+          "active_physical_qubits": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            16,
+            17,
+            27,
+            28,
+            29,
+            38,
+            49,
+            50,
+            51,
+            55,
+            58,
+            59,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            73,
+            74,
+            75,
+            77,
+            79,
+            85,
+            86,
+            87,
+            91,
+            92,
+            93,
+            97,
+            98,
+            107,
+            108,
+            109,
+            111,
+            112,
+            113,
+            118,
+            119,
+            129,
+            130,
+            131,
+            132,
+            133
+          ],
+          "circuit_width": 156,
+          "measured_physical_qubits": [],
+          "operation_counts": {
+            "cz": 784,
+            "rz": 1946,
+            "sx": 1823,
+            "x": 231
+          },
+          "qubit_index_basis": "submitted Runtime ISA circuit (physical backend indices)"
+        }
+      }
+    ],
+    "options": {
+      "default_shots": 32768,
+      "resilience": {
+        "measure_mitigation": true,
+        "pec_mitigation": false,
+        "zne_mitigation": false
+      },
+      "twirling": {
+        "enable_gates": true,
+        "enable_measure": true
+      }
+    },
+    "pub_count": 1,
+    "resilience_level": 1,
+    "support_qiskit": true,
+    "version": 2
+  },
+  "job_id": "d91issr57qjs73b6et40",
+  "metrics": {
+    "bss": {
+      "seconds": 28
+    },
+    "caller": "qiskit_ibm_runtime~estimator.py",
+    "qiskit_version": "qiskit_ibm_runtime-0.47.0,qiskit-2.2.3*,qiskit_aer-0.17.2*",
+    "timestamps": {
+      "created": "2026-06-30T02:48:19.052319Z",
+      "finished": "2026-06-30T04:04:51.086413Z",
+      "running": "2026-06-30T02:48:20.732595Z"
+    },
+    "usage": {
+      "quantum_seconds": 28,
+      "seconds": 28,
+      "status": "complete"
+    }
+  },
+  "primitive_id": "estimator",
+  "retrieval_status": "retrieved",
+  "runtime_image": null,
+  "session_or_batch_id": null,
+  "status": "DONE",
+  "tags": null,
+  "usage_estimation": {
+    "quantum_seconds": 37.82629553
+  }
+}
